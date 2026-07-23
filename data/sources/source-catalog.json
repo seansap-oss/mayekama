@@ -1,0 +1,147 @@
+{
+  "version": "2026-07-24-build7",
+  "policy": "Only import public-domain, permissively licensed, explicitly licensed, or user-contributed data. Reference-only sources are not bulk-copied.",
+  "sources": [
+    {
+      "id": "dsal-sharma-dictionary",
+      "name": "Learners Manipuri-English Dictionary (H. Surmangol Sharma) via DSAL",
+      "type": "dictionary/reference",
+      "url": "https://dsal.uchicago.edu/dictionaries/sharma/",
+      "status": "reference-only-permission-needed",
+      "use": "Manual citation, lexical comparison, canonical review support; do not bulk-copy entries without permission."
+    },
+    {
+      "id": "ldcil-manipuri-text-corpus",
+      "name": "LDC-IL Gold Standard Manipuri Raw Text Corpus",
+      "type": "corpus",
+      "url": "https://data.ldcil.org/text/text-raw-corpus/a-gold-standard-manipuri-raw-text-corpus",
+      "status": "licensed-request-needed",
+      "use": "Frequency lists, domain coverage, corpus statistics after proper access/licence."
+    },
+    {
+      "id": "ldcil-manipuri-speech-corpus",
+      "name": "LDC-IL Manipuri Speech Corpus",
+      "type": "speech/corpus",
+      "url": "https://data.ldcil.org/index.php?route=product/search&tag=Manipuri",
+      "status": "licensed-request-needed",
+      "use": "Future pronunciation, ASR/TTS, spoken form validation."
+    },
+    {
+      "id": "huggingface-meitei-mayek-to-english",
+      "name": "DayanandaThokchom Meitei Mayek to English parallel dataset",
+      "type": "parallel-corpus",
+      "url": "https://huggingface.co/datasets/DayanandaThokchom/meitei-mayek-to-english",
+      "status": "check-dataset-licence-before-import",
+      "use": "Translation memory research and Meitei Mayek alignment if licence permits."
+    },
+    {
+      "id": "huggingface-english-to-meitei-mayek",
+      "name": "DayanandaThokchom English to Meitei Mayek dataset",
+      "type": "parallel-corpus",
+      "url": "https://huggingface.co/datasets/DayanandaThokchom/english-TO-meitei-mayek",
+      "status": "check-dataset-licence-before-import",
+      "use": "English draft translation experiments if licence permits."
+    },
+    {
+      "id": "mwirelabs-meitei-monolingual",
+      "name": "MWire Labs Meitei Monolingual Corpus (Bengali Script)",
+      "type": "monolingual-corpus",
+      "url": "https://huggingface.co/datasets/MWirelabs/meitei-monolingual-corpus",
+      "status": "cc-by-sa-4.0-attribution-sharealike",
+      "use": "Frequency modelling and script conversion pipeline with attribution and share-alike compliance."
+    },
+    {
+      "id": "acl-2012-news-transliteration",
+      "name": "Bidirectional Bengali Script and Meetei Mayek Transliteration of Web Based Manipuri News Corpus",
+      "type": "research-paper",
+      "url": "https://aclanthology.org/W12-5016/",
+      "status": "research-reference",
+      "use": "Transliteration rules and literature review; not a raw data source unless dataset is licensed."
+    },
+    {
+      "id": "mecos-code-switching-speech",
+      "name": "MECOS Manipuri-English code-switching speech corpus",
+      "type": "speech/research",
+      "url": "https://www.sciencedirect.com/science/article/pii/S088523082400010X",
+      "status": "research-reference/licence-needed",
+      "use": "Future code-switching model design and speech research."
+    },
+    {
+      "id": "meiteimayek-transliterate",
+      "name": "MeiteiMayek.com transliteration tools",
+      "type": "tool/reference",
+      "url": "https://www.meiteimayek.com/transliterate",
+      "status": "reference-only-api-permission-needed",
+      "use": "Compare transliteration behavior; do not scrape service."
+    },
+    {
+      "id": "wiktionary-meitei",
+      "name": "Wiktionary Meitei entries",
+      "type": "dictionary/open",
+      "url": "https://en.wiktionary.org/wiki/Category:Meitei_language",
+      "status": "cc-by-sa-with-attribution",
+      "use": "Open lexical seed where entries are available; preserve attribution and licence."
+    },
+    {
+      "id": "glosbe-manipuri",
+      "name": "Glosbe Manipuri-English dictionary",
+      "type": "dictionary/service",
+      "url": "https://glosbe.com/mni/en",
+      "status": "service-reference-permission-needed",
+      "use": "Discovery/reference; do not bulk-copy without terms permission."
+    },
+    {
+      "id": "community-submissions",
+      "name": "MayekAma community word submissions",
+      "type": "original-data",
+      "url": "internal",
+      "status": "owned-with-contributor-terms",
+      "use": "Primary growth path for canonical Roman Manipuri standard."
+    },
+    {
+      "id": "hf-mwire-meitei-monolingual-cc-by-sa",
+      "name": "MWire Labs Meitei Monolingual Corpus",
+      "type": "corpus",
+      "url": "https://huggingface.co/datasets/MWirelabs/meitei-monolingual-corpus",
+      "status": "open-with-obligations",
+      "use": "Candidate extraction with attribution/share-alike review; not direct final standard.",
+      "notes": "Bengali-script Meitei corpus; useful for frequency and terminology."
+    },
+    {
+      "id": "hf-dayananda-meitei-mayek-english-mit",
+      "name": "Meitei Mayek to English parallel corpus",
+      "type": "parallel-corpus",
+      "url": "https://huggingface.co/datasets/DayanandaThokchom/meitei-mayek-to-english",
+      "status": "open-mit-reported",
+      "use": "Parallel examples and translation memory after validation.",
+      "notes": "Needs Romanisation layer before MayekAma import."
+    },
+    {
+      "id": "hf-dayananda-english-to-meitei-mayek-mit",
+      "name": "English to Meitei Mayek parallel corpus",
+      "type": "parallel-corpus",
+      "url": "https://huggingface.co/datasets/DayanandaThokchom/english-TO-meitei-mayek",
+      "status": "open-mit-reported",
+      "use": "Translation memory after validation.",
+      "notes": "Useful for later English-to-Roman Manipuri drafts."
+    },
+    {
+      "id": "hf-dayananda-tts-latin",
+      "name": "TTS dataset for Manipuri Latin script",
+      "type": "speech-text",
+      "url": "https://huggingface.co/datasets/DayanandaThokchom/TTS-dataset-Manipur-latin",
+      "status": "permission-needed",
+      "use": "Reference until licence confirmed.",
+      "notes": "Potential Romanised examples; verify licence before import."
+    },
+    {
+      "id": "joyson117-manipuri-monolingual",
+      "name": "Manipuri monolingual corpus",
+      "type": "corpus",
+      "url": "https://huggingface.co/datasets/joyson117/manipuri-monolingual-corpus",
+      "status": "license-review-needed",
+      "use": "Discovery only until licence and provenance are checked.",
+      "notes": "Dataset card says compiled from publicly available texts; still needs licence confirmation."
+    }
+  ]
+}

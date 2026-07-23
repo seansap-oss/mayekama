@@ -1,0 +1,29 @@
+{
+  "totalRowsScanned": 190,
+  "finalWordCount": 189,
+  "added": 189,
+  "replacedOrMerged": 0,
+  "rejected": 1,
+  "domainCounts": {
+    "daily": 72,
+    "governance": 26,
+    "technology": 25,
+    "writing": 37,
+    "school": 12,
+    "place": 9,
+    "family": 7,
+    "translation": 1
+  },
+  "levelCounts": {
+    "chat": 93,
+    "formal": 87,
+    "editorial": 9
+  },
+  "reviewCounts": {
+    "needs_review": 189
+  },
+  "imports": [
+    "build8-candidate-lexicon.csv",
+    "seed-master-lexicon.csv"
+  ]
+}

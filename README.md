@@ -1,55 +1,28 @@
-# MayekAma — Build 6 Release Candidate
+# MayekAma Build 12 — Chat Database Expansion
 
-MayekAma is a Roman Manipuri language platform: website, writer, dictionary, language engine, Android keyboard source, Supabase schema, and future API foundation.
+MayekAma is a Roman Manipuri keyboard, writer, dictionary and governance platform.
 
 ## Current status
 
-```text
-Current build: Build 6 of 6
-UI status: Locked — no redesign, only additions
-Website status: Testable
-Language engine status: Testable
-Android keyboard status: Alpha source included
-APK included: No
-Next milestone: Build APK in Android Studio and test on phone
-```
+- Website: testable
+- UI: locked; additions only
+- Dictionary: 1,795 unique candidate canonical entries
+- Governance: temporary submissions + database pre-check
+- APK: Android alpha source handled separately
 
-## One-command setup
-
-After downloading `MayekAma_Build6.zip` to Downloads, open VS Code PowerShell and run:
+## Run
 
 ```powershell
-Remove-Item -Recurse -Force "D:\MayekAma" -ErrorAction SilentlyContinue; New-Item -ItemType Directory -Force -Path "D:\MayekAma" | Out-Null; Expand-Archive -Force "$env:USERPROFILE\Downloads\MayekAma_Build6.zip" "D:\MayekAma"; cd "D:\MayekAma"; npm install; npm run dev
+npm install
+npm run database:merge
+npm run database:status
+npm run database:pack
+npm run dev
 ```
 
-Then open:
+Open http://localhost:5173
 
-```text
-http://localhost:5173
-```
 
-## Check release package
+## Build 13 database growth
 
-```powershell
-npm run release:check
-```
-
-## Android keyboard source
-
-Open this folder in Android Studio:
-
-```text
-D:\MayekAma\apps\android-keyboard
-```
-
-The source is included. A compiled APK is not bundled in this ZIP.
-
-## Key documentation
-
-- `docs/BUILD6-RELEASE-CANDIDATE.md`
-- `docs/APK-HANDOVER.md`
-- `docs/TESTING-CHECKLIST.md`
-- `docs/UI-LOCK-RULE.md`
-- `docs/SUPABASE-SETUP.md`
-- `docs/API-SPEC.md`
-- `docs/DEPLOYMENT-VERCEL.md`
+Build 13 adds 1,310 candidate rows and brings the master database to 3,105 unique canonical entries after dedupe. UI remains locked; only the database and documentation were added. See `docs/BUILD13_DATABASE_GROWTH.md`.

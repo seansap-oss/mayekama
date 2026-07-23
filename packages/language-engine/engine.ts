@@ -21,9 +21,9 @@ for (const entry of starterDictionary) {
 }
 
 export const activeLanguagePack: LanguagePack = {
-  version: 'RMS-0.1-build3-local',
-  releasedAt: '2026-07-24',
-  standardName: 'MayekAma Roman Manipuri Standard 0.1',
+  version: 'RMS-0.9-workbench',
+  releasedAt: new Date().toISOString().slice(0, 10),
+  standardName: 'MayekAma Roman Manipuri Database Workbench 0.9',
   words: starterDictionary,
   phrases: commonPhrases,
   nextWordPairs

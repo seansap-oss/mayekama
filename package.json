@@ -1,8 +1,8 @@
 {
   "name": "mayekama",
   "private": true,
-  "version": "0.6.0-build6-rc",
-  "description": "MayekAma Build 6 of 6: release candidate with locked UI, website/language engine, Android keyboard alpha source, Supabase/API release schema, SEO files, and final handover documentation.",
+  "version": "0.13.0-build13-database-growth",
+  "description": "MayekAma Build 13: locked UI with 1000+ researched candidate word growth through the single dedupe master database pipeline.",
   "type": "module",
   "scripts": {
     "dev": "node ./node_modules/vite/bin/vite.js --host 0.0.0.0 --port 5173",
@@ -19,20 +19,33 @@
     "android:status": "node scripts/android-status.mjs",
     "build5:check": "npm run check && npm run validate:pack && npm run test:engine && npm run android:status",
     "release:check": "npm run check && npm run validate:pack && npm run test:engine && npm run android:status && node scripts/release-report.mjs",
-    "build6:check": "npm run release:check"
+    "build6:check": "npm run release:check",
+    "database:audit": "node scripts/audit-source-catalog.mjs",
+    "database:import": "node scripts/import-lexicon.mjs data/imports/seed-master-lexicon.csv data/processed/mayekama-master-lexicon.json",
+    "database:pack": "node scripts/build-language-pack.mjs data/master/mayekama-master-lexicon.json packages/language-engine/language-pack.build9.json",
+    "build7:check": "npm run check && npm run validate:pack && npm run test:engine && npm run database:audit && npm run database:import && npm run database:pack",
+    "database:merge": "node scripts/merge-lexicons.mjs data/imports data/master data/rejected",
+    "database:status": "node scripts/database-status.mjs",
+    "build8:check": "npm run check && npm run validate:pack && npm run test:engine && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack",
+    "build9:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "database:ingest-json": "node scripts/ingest-user-json.mjs",
+    "build10:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build11:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build12:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build13:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "tsx": "latest",
-    "typescript": "latest",
-    "vite": "latest"
+    "lucide-react": "latest",
+    "framer-motion": "latest",
+    "tsx": "latest"
   },
   "devDependencies": {
-    "@types/react": "^19.2.17",
-    "@types/react-dom": "^19.2.3"
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
   }
 }

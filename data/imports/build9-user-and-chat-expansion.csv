@@ -1,0 +1,148 @@
+canonical,aliases,meaning,partOfSpeech,domain,level,example,sourceTag,reviewStatus
+khurumjari,,greetings / respect,greeting,daily,chat,,user-pasted-build9,needs_review
+khoramchari,,hello / welcome,greeting,daily,chat,,user-pasted-build9,needs_review
+huranba,,thank you,greeting,daily,chat,,user-pasted-build9,needs_review
+kamdouri,,how are you?,phrase,daily,chat,,user-pasted-build9,needs_review
+fare,,I am fine / good,phrase,daily,chat,,user-pasted-build9,needs_review
+yamna nungai,,very happy / nice,phrase,daily,chat,,user-pasted-build9,needs_review
+kari kouwe,,what is your name?,phrase,daily,chat,,user-pasted-build9,needs_review
+eingondagi,,from me,phrase,daily,chat,,user-pasted-build9,needs_review
+eihak,,I,pronoun,daily,chat,,user-pasted-build9,needs_review
+ei,,I / me,pronoun,daily,chat,,user-pasted-build9,needs_review
+nang,,you,pronoun,daily,chat,,user-pasted-build9,needs_review
+adom,,you (respectful),pronoun,daily,chat,,user-pasted-build9,needs_review
+ma,,he / she,pronoun,daily,chat,,user-pasted-build9,needs_review
+eikhoi,,we / us,pronoun,daily,chat,,user-pasted-build9,needs_review
+nakhoi,,you all,pronoun,daily,chat,,user-pasted-build9,needs_review
+makhoi,,they / them,pronoun,daily,chat,,user-pasted-build9,needs_review
+ishing,,water,noun,daily,chat,,user-pasted-build9,needs_review
+chak,,rice / food,noun,daily,chat,,user-pasted-build9,needs_review
+upaal,,tree,noun,daily,chat,,user-pasted-build9,needs_review
+atiyaa,,sky,noun,daily,chat,,user-pasted-build9,needs_review
+eche,,elder sister,relation,family,chat,,user-pasted-build9,needs_review
+ima,,mother,relation,family,chat,,user-pasted-build9,needs_review
+ipa,,father,relation,family,chat,,user-pasted-build9,needs_review
+oja,,teacher,noun,daily,chat,,user-pasted-build9,needs_review
+khongchatpa,,traveler / journey,noun,daily,chat,,user-pasted-build9,needs_review
+nupi,,woman,noun,daily,chat,,user-pasted-build9,needs_review
+nupa,,man,noun,daily,chat,,user-pasted-build9,needs_review
+nao-tak,,infant / child,noun,daily,chat,,user-pasted-build9,needs_review
+angaang,,child,noun,daily,chat,,user-pasted-build9,needs_review
+kihom,,pineapple,food,daily,chat,,user-pasted-build9,needs_review
+machu,,color,noun,daily,chat,,user-pasted-build9,needs_review
+chaba,,to eat,verb,daily,chat,,user-pasted-build9,needs_review
+thakpa,,to drink,verb,daily,chat,,user-pasted-build9,needs_review
+chatpa,,to go,verb,daily,chat,,user-pasted-build9,needs_review
+lakpa,,to come,verb,daily,chat,,user-pasted-build9,needs_review
+tumba,,to sleep,verb,daily,chat,,user-pasted-build9,needs_review
+houba,,to wake up / start,verb,daily,chat,,user-pasted-build9,needs_review
+haiba,,to speak / say,verb,daily,chat,,user-pasted-build9,needs_review
+yengba,,to look / see,verb,daily,chat,,user-pasted-build9,needs_review
+paaba,,to read,verb,daily,chat,,user-pasted-build9,needs_review
+eiba,,to write,verb,daily,chat,,user-pasted-build9,needs_review
+tamba,,to learn,verb,daily,chat,,user-pasted-build9,needs_review
+chetpa,,to hold firm,verb,daily,chat,,user-pasted-build9,needs_review
+ama,,one,number,daily,chat,,user-pasted-build9,needs_review
+ani,,two,number,daily,chat,,user-pasted-build9,needs_review
+ahum,,three,number,daily,chat,,user-pasted-build9,needs_review
+mari,,four,number,daily,chat,,user-pasted-build9,needs_review
+manga,,five,number,daily,chat,,user-pasted-build9,needs_review
+taruk,,six,number,daily,chat,,user-pasted-build9,needs_review
+taret,,seven,number,daily,chat,,user-pasted-build9,needs_review
+nipan,,eight,number,daily,chat,,user-pasted-build9,needs_review
+mapan,,nine,number,daily,chat,,user-pasted-build9,needs_review
+tara,,ten,number,daily,chat,,user-pasted-build9,needs_review
+matam,,time,noun,daily,chat,Matam kayada leiri?,build9-curated-candidate,needs_review
+matam kayada,,what time,phrase,daily,chat,Matam kayada?,build9-curated-candidate,needs_review
+kayada,,how much / what time,question word,daily,chat,Matam kayada?,build9-curated-candidate,needs_review
+kari matam,,what time,phrase,daily,chat,Kari matam-da lakpa?,build9-curated-candidate,needs_review
+ngasi,,today,adverb,daily,chat,Ngasi meeting leiri.,build9-curated-candidate,needs_review
+hayeng,,tomorrow,adverb,daily,chat,Hayeng lak-u.,build9-curated-candidate,needs_review
+ngarang,,yesterday,adverb,daily,chat,Ngarang chatlammi.,build9-curated-candidate,needs_review
+numit,,day / sun,noun,daily,chat,Numit asi phajare.,build9-curated-candidate,needs_review
+numidang,,night,noun,daily,chat,Numidang-da tumba.,build9-curated-candidate,needs_review
+ayuk,,morning,noun,daily,chat,Ayuk-da lak-u.,build9-curated-candidate,needs_review
+nungthil,,afternoon,noun,daily,chat,Nungthil-da meeting leiri.,build9-curated-candidate,needs_review
+numidangwairam,,evening,noun,daily,chat,Numidangwairam-da chatpa.,build9-curated-candidate,needs_review
+minute,,minute,noun,daily,chat,Minute tara ngaiba.,build9-curated-candidate,needs_review
+hour,,hour,noun,daily,chat,Hour ama ngaiba.,build9-curated-candidate,needs_review
+laklibra,,are you coming?,phrase,daily,chat,Nang laklibra?,build9-curated-candidate,needs_review
+chatlibra,,are you going?,phrase,daily,chat,Nang chatlibra?,build9-curated-candidate,needs_review
+leiriba,,staying / existing,verb,daily,chat,Nang kadaida leiriba?,build9-curated-candidate,needs_review
+leiribra,,are you there?,phrase,daily,chat,Nang leiribra?,build9-curated-candidate,needs_review
+toure,,doing,verb,daily,chat,Kari toure?,build9-curated-candidate,needs_review
+toubra,,will you do?,phrase,daily,chat,Nang toubra?,build9-curated-candidate,needs_review
+oire,,done / okay,phrase,daily,chat,Oire.,build9-curated-candidate,needs_review
+oirabadi,,if so,conjunction,daily,chat,Oirabadi eina chatli.,build9-curated-candidate,needs_review
+aduga,,and / then,conjunction,daily,chat,Aduda aduga chatli.,build9-curated-candidate,needs_review
+adubu,,but,conjunction,daily,chat,Adubu eina lakloi.,build9-curated-candidate,needs_review
+maramdi,,because,conjunction,daily,chat,Maramdi meeting leiri.,build9-curated-candidate,needs_review
+karigi,,why,question word,daily,chat,Karigi lakpadra?,build9-curated-candidate,needs_review
+karino,,what is it?,phrase,daily,chat,Masi karino?,build9-curated-candidate,needs_review
+kanano,,who is it?,phrase,daily,chat,Mahak kanano?,build9-curated-candidate,needs_review
+kanagumba,,someone,pronoun,daily,chat,Kanagumba lak-i.,build9-curated-candidate,needs_review
+kanasu,,anyone,pronoun,daily,chat,Kanasu leiribra?,build9-curated-candidate,needs_review
+kari oiba,,what happened,phrase,daily,chat,Kari oiba?,build9-curated-candidate,needs_review
+kadaidagi,,from where,question word,daily,chat,Nang kadaidagi lakpa?,build9-curated-candidate,needs_review
+kadaidano,,where is it?,phrase,daily,chat,Masi kadaidano?,build9-curated-candidate,needs_review
+touba,,to do,verb,daily,chat,Kari touba?,build9-curated-candidate,needs_review
+ngaiba,,to wait,verb,daily,chat,Ngaibiyu.,build9-curated-candidate,needs_review
+piba,,to give,verb,daily,chat,Piyu.,build9-curated-candidate,needs_review
+loubha,,to take / receive,verb,daily,chat,Loubiyu.,build9-curated-candidate,needs_review
+thiba,,to search,verb,daily,chat,Thiba ngammi.,build9-curated-candidate,needs_review
+phangba,,to get / find,verb,daily,chat,Pao phangba.,build9-curated-candidate,needs_review
+khalliba,,to think,verb,daily,chat,Eina khalliba.,build9-curated-candidate,needs_review
+pammi,,want / like,verb,daily,chat,Eina pammi.,build9-curated-candidate,needs_review
+pamde,,do not want,verb,daily,chat,Eina pamde.,build9-curated-candidate,needs_review
+ngammi,,can,verb,daily,chat,Eina ngammi.,build9-curated-candidate,needs_review
+ngamde,,cannot,verb,daily,chat,Eina ngamde.,build9-curated-candidate,needs_review
+leitre,,not there,verb,daily,chat,Mahak leitre.,build9-curated-candidate,needs_review
+lakloi,,will not come,verb,daily,chat,Eina lakloi.,build9-curated-candidate,needs_review
+chatloi,,will not go,verb,daily,chat,Eina chatloi.,build9-curated-candidate,needs_review
+phajaba,,good / beautiful,adjective,daily,chat,Masi phajaba ni.,build9-curated-candidate,needs_review
+phattaba,,bad,adjective,daily,chat,Masi phattaba ni.,build9-curated-candidate,needs_review
+chaoba,,big,adjective,daily,chat,Yum chaoba.,build9-curated-candidate,needs_review
+pichaoba,,small,adjective,daily,chat,Yum pichaoba.,build9-curated-candidate,needs_review
+nupa macha,,boy,noun,family,chat,Nupa macha ama.,build9-curated-candidate,needs_review
+nupi macha,,girl,noun,family,chat,Nupi macha ama.,build9-curated-candidate,needs_review
+wareng,,story / essay,noun,writing,editorial,Wareng ama i.,build9-curated-candidate,needs_review
+warikol,,story / tale,noun,writing,editorial,Warikol ama pao.,build9-curated-candidate,needs_review
+seireng,,poem,noun,writing,editorial,Seireng ama i.,build9-curated-candidate,needs_review
+chapter,,chapter,noun,writing,formal,Chapter ama.,build9-curated-candidate,needs_review
+paragraph,,paragraph,noun,writing,formal,Paragraph ama.,build9-curated-candidate,needs_review
+title,,title,noun,writing,formal,Title ama pi.,build9-curated-candidate,needs_review
+maming,,name / title,noun,writing,formal,Maming pi.,build9-curated-candidate,needs_review
+hougatpa,,introduction / beginning,noun,writing,formal,Hougatpa i.,build9-curated-candidate,needs_review
+loisillakpa,,conclusion,noun,writing,formal,Loisillakpa i.,build9-curated-candidate,needs_review
+mathakta,,above,adverb,writing,formal,Mathakta piriba.,build9-curated-candidate,needs_review
+makhada,,below,adverb,writing,formal,Makhada piriba.,build9-curated-candidate,needs_review
+maram,,reason,noun,writing,formal,Maram asi.,build9-curated-candidate,needs_review
+wapham,,topic / subject,noun,writing,formal,Wapham asi.,build9-curated-candidate,needs_review
+wahou,,sentence,noun,writing,formal,Wahou ama.,build9-curated-candidate,needs_review
+wahei,,word,noun,writing,formal,Wahei ama.,build9-curated-candidate,needs_review
+mayek,,letter / script,noun,writing,formal,Mayek ama.,build9-curated-candidate,needs_review
+lairik,,book,noun,writing,formal,Lairik ama i.,build9-curated-candidate,needs_review
+lairik macha,,small book / booklet,noun,writing,formal,Lairik macha ama.,build9-curated-candidate,needs_review
+class,,class,noun,school,chat,Class-da chatli.,build9-curated-candidate,needs_review
+exam,,exam,noun,school,chat,Exam leiri.,build9-curated-candidate,needs_review
+homework,,homework,noun,school,chat,Homework toubra?,build9-curated-candidate,needs_review
+assignment,,assignment,noun,school,chat,Assignment submit tou-u.,build9-curated-candidate,needs_review
+lesson,,lesson,noun,school,chat,Lesson paaba.,build9-curated-candidate,needs_review
+question,,question,noun,school,formal,Question ama.,build9-curated-candidate,needs_review
+answer,,answer,noun,school,formal,Answer pi.,build9-curated-candidate,needs_review
+college,,college,noun,school,chat,College-da leiri.,build9-curated-candidate,needs_review
+university,,university,noun,school,formal,University-da tamba.,build9-curated-candidate,needs_review
+library,,library,noun,school,formal,Library-da lairik leiri.,build9-curated-candidate,needs_review
+imphal,,Imphal,place,place,formal,Imphal-da leiri.,build9-curated-candidate,needs_review
+thoubal,,Thoubal,place,place,formal,Thoubal-da chatli.,build9-curated-candidate,needs_review
+bishnupur,,Bishnupur,place,place,formal,Bishnupur-da leiri.,build9-curated-candidate,needs_review
+churachandpur,,Churachandpur,place,place,formal,Churachandpur-da chatpa.,build9-curated-candidate,needs_review
+ukhrul,,Ukhrul,place,place,formal,Ukhrul-da chatpa.,build9-curated-candidate,needs_review
+senapati,,Senapati,place,place,formal,Senapati-da chatpa.,build9-curated-candidate,needs_review
+tamenglong,,Tamenglong,place,place,formal,Tamenglong-da chatpa.,build9-curated-candidate,needs_review
+kakching,,Kakching,place,place,formal,Kakching-da chatpa.,build9-curated-candidate,needs_review
+kangpokpi,,Kangpokpi,place,place,formal,Kangpokpi-da chatpa.,build9-curated-candidate,needs_review
+jiribam,,Jiribam,place,place,formal,Jiribam-da chatpa.,build9-curated-candidate,needs_review
+moreh,,Moreh,place,place,formal,Moreh-da chatpa.,build9-curated-candidate,needs_review
+loktak,,Loktak,place,place,formal,Loktak pat.,build9-curated-candidate,needs_review
+kangla,,Kangla,place,place,formal,Kangla-da chatpa.,build9-curated-candidate,needs_review

@@ -1,0 +1,281 @@
+{
+  "language": "Manipuri (Meiteilon)",
+  "script": "Romanized / Latin",
+  "categories": {
+    "greetings_and_daily": [
+      {
+        "roman": "khurumjari",
+        "english": "greetings / respect",
+        "category": "greeting"
+      },
+      {
+        "roman": "khoramchari",
+        "english": "hello / welcome",
+        "category": "greeting"
+      },
+      {
+        "roman": "huranba",
+        "english": "thank you",
+        "category": "greeting"
+      },
+      {
+        "roman": "kamdouri",
+        "english": "how are you?",
+        "category": "phrase"
+      },
+      {
+        "roman": "fare",
+        "english": "I am fine / good",
+        "category": "phrase"
+      },
+      {
+        "roman": "yamna nungai",
+        "english": "very happy / nice",
+        "category": "phrase"
+      },
+      {
+        "roman": "kari kouwe",
+        "english": "what is your name?",
+        "category": "phrase"
+      },
+      {
+        "roman": "eingondagi",
+        "english": "from me",
+        "category": "phrase"
+      }
+    ],
+    "pronouns": [
+      {
+        "roman": "eihak",
+        "english": "I",
+        "category": "pronoun"
+      },
+      {
+        "roman": "ei",
+        "english": "I / me",
+        "category": "pronoun"
+      },
+      {
+        "roman": "nang",
+        "english": "you",
+        "category": "pronoun"
+      },
+      {
+        "roman": "adom",
+        "english": "you (respectful)",
+        "category": "pronoun"
+      },
+      {
+        "roman": "ma",
+        "english": "he / she",
+        "category": "pronoun"
+      },
+      {
+        "roman": "eikhoi",
+        "english": "we / us",
+        "category": "pronoun"
+      },
+      {
+        "roman": "nakhoi",
+        "english": "you all",
+        "category": "pronoun"
+      },
+      {
+        "roman": "makhoi",
+        "english": "they / them",
+        "category": "pronoun"
+      }
+    ],
+    "common_nouns": [
+      {
+        "roman": "ishing",
+        "english": "water",
+        "category": "noun"
+      },
+      {
+        "roman": "chak",
+        "english": "rice / food",
+        "category": "noun"
+      },
+      {
+        "roman": "upaal",
+        "english": "tree",
+        "category": "noun"
+      },
+      {
+        "roman": "atiyaa",
+        "english": "sky",
+        "category": "noun"
+      },
+      {
+        "roman": "eche",
+        "english": "elder sister",
+        "category": "relation"
+      },
+      {
+        "roman": "ima",
+        "english": "mother",
+        "category": "relation"
+      },
+      {
+        "roman": "ipa",
+        "english": "father",
+        "category": "relation"
+      },
+      {
+        "roman": "oja",
+        "english": "teacher",
+        "category": "noun"
+      },
+      {
+        "roman": "khongchatpa",
+        "english": "traveler / journey",
+        "category": "noun"
+      },
+      {
+        "roman": "nupi",
+        "english": "woman",
+        "category": "noun"
+      },
+      {
+        "roman": "nupa",
+        "english": "man",
+        "category": "noun"
+      },
+      {
+        "roman": "nao-tak",
+        "english": "infant / child",
+        "category": "noun"
+      },
+      {
+        "roman": "angaang",
+        "english": "child",
+        "category": "noun"
+      },
+      {
+        "roman": "kihom",
+        "english": "pineapple",
+        "category": "food"
+      },
+      {
+        "roman": "machu",
+        "english": "color",
+        "category": "noun"
+      }
+    ],
+    "verbs": [
+      {
+        "roman": "chaba",
+        "english": "to eat",
+        "category": "verb"
+      },
+      {
+        "roman": "thakpa",
+        "english": "to drink",
+        "category": "verb"
+      },
+      {
+        "roman": "chatpa",
+        "english": "to go",
+        "category": "verb"
+      },
+      {
+        "roman": "lakpa",
+        "english": "to come",
+        "category": "verb"
+      },
+      {
+        "roman": "tumba",
+        "english": "to sleep",
+        "category": "verb"
+      },
+      {
+        "roman": "houba",
+        "english": "to wake up / start",
+        "category": "verb"
+      },
+      {
+        "roman": "haiba",
+        "english": "to speak / say",
+        "category": "verb"
+      },
+      {
+        "roman": "yengba",
+        "english": "to look / see",
+        "category": "verb"
+      },
+      {
+        "roman": "paaba",
+        "english": "to read",
+        "category": "verb"
+      },
+      {
+        "roman": "eiba",
+        "english": "to write",
+        "category": "verb"
+      },
+      {
+        "roman": "tamba",
+        "english": "to learn",
+        "category": "verb"
+      },
+      {
+        "roman": "chetpa",
+        "english": "to hold firm",
+        "category": "verb"
+      }
+    ],
+    "numbers": [
+      {
+        "roman": "ama",
+        "english": "one",
+        "category": "number"
+      },
+      {
+        "roman": "ani",
+        "english": "two",
+        "category": "number"
+      },
+      {
+        "roman": "ahum",
+        "english": "three",
+        "category": "number"
+      },
+      {
+        "roman": "mari",
+        "english": "four",
+        "category": "number"
+      },
+      {
+        "roman": "manga",
+        "english": "five",
+        "category": "number"
+      },
+      {
+        "roman": "taruk",
+        "english": "six",
+        "category": "number"
+      },
+      {
+        "roman": "taret",
+        "english": "seven",
+        "category": "number"
+      },
+      {
+        "roman": "nipan",
+        "english": "eight",
+        "category": "number"
+      },
+      {
+        "roman": "mapan",
+        "english": "nine",
+        "category": "number"
+      },
+      {
+        "roman": "tara",
+        "english": "ten",
+        "category": "number"
+      }
+    ]
+  }
+}

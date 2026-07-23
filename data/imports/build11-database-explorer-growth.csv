@@ -1,0 +1,749 @@
+canonical,aliases,meaning,partOfSpeech,domain,level,example,sourceTag,reviewStatus
+kari,,what,question,chat,chat,,build11-chat-article-growth,needs_review
+karino,,what is it,question,chat,chat,,build11-chat-article-growth,needs_review
+kari oiba,,what happened,phrase,chat,chat,,build11-chat-article-growth,needs_review
+karigumba,,why / because of what,question,chat,chat,,build11-chat-article-growth,needs_review
+kadaida,,where,question,chat,chat,,build11-chat-article-growth,needs_review
+kadaidano,,where is it,question,chat,chat,,build11-chat-article-growth,needs_review
+kayada,,when / at what time,question,chat,chat,,build11-chat-article-growth,needs_review
+karamna,,how,question,chat,chat,,build11-chat-article-growth,needs_review
+kana,,who,question,chat,chat,,build11-chat-article-growth,needs_review
+kanano,,who is it,question,chat,chat,,build11-chat-article-growth,needs_review
+kayam,,how many / how much,question,chat,chat,,build11-chat-article-growth,needs_review
+kayamnano,,how much is it,question,chat,chat,,build11-chat-article-growth,needs_review
+adi,,that / then,particle,chat,chat,,build11-chat-article-growth,needs_review
+adu,,that,particle,chat,chat,,build11-chat-article-growth,needs_review
+asi,,this,particle,chat,chat,,build11-chat-article-growth,needs_review
+madu,,that thing,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+masi,,this thing,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+makhoida,,to them,phrase,chat,chat,,build11-chat-article-growth,needs_review
+eikhoida,,to us,phrase,chat,chat,,build11-chat-article-growth,needs_review
+nangonda,,to you,phrase,chat,chat,,build11-chat-article-growth,needs_review
+eigi,,my,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+nanggi,,your,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+magi,,his / her,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+eikhoigi,,our,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+nakhoigi,,your plural,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+makhoigi,,their,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+eibu,,me object,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+nangbu,,you object,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+mabu,,him / her object,pronoun,chat,chat,,build11-chat-article-growth,needs_review
+pumnamak,,all / everything,quantifier,chat,chat,,build11-chat-article-growth,needs_review
+khara,,some / few,quantifier,chat,chat,,build11-chat-article-growth,needs_review
+ayam,,many / much,quantifier,chat,chat,,build11-chat-article-growth,needs_review
+yam,,very / much,adverb,chat,chat,,build11-chat-article-growth,needs_review
+yamna,,very much,adverb,chat,chat,,build11-chat-article-growth,needs_review
+henna,,more,adverb,chat,chat,,build11-chat-article-growth,needs_review
+khudingmak,,every,quantifier,chat,chat,,build11-chat-article-growth,needs_review
+amaga,,with one / together,particle,chat,chat,,build11-chat-article-growth,needs_review
+amasung,,and,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+aduga,,and then,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+adubu,,but,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+maramdi,,because,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+maramna,,therefore,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+nattraga,,or,conjunction,chat,chat,,build11-chat-article-growth,needs_review
+natte,,no / not so,negation,chat,chat,,build11-chat-article-growth,needs_review
+nattra,,is it not,question,chat,chat,,build11-chat-article-growth,needs_review
+oi,,yes / become,verb,chat,chat,,build11-chat-article-growth,needs_review
+oidre,,not become / no,negation,chat,chat,,build11-chat-article-growth,needs_review
+oirabadi,,if so,phrase,chat,chat,,build11-chat-article-growth,needs_review
+oirabasu,,even if so,phrase,chat,chat,,build11-chat-article-growth,needs_review
+houjik,,now,time,chat,chat,,build11-chat-article-growth,needs_review
+ngasi,,today,time,chat,chat,,build11-chat-article-growth,needs_review
+hayeng,,tomorrow,time,chat,chat,,build11-chat-article-growth,needs_review
+ngarang,,yesterday,time,chat,chat,,build11-chat-article-growth,needs_review
+ayuk,,morning,time,chat,chat,,build11-chat-article-growth,needs_review
+numidang,,night,time,chat,chat,,build11-chat-article-growth,needs_review
+numit,,day / sun,time,chat,chat,,build11-chat-article-growth,needs_review
+tha,,month / moon,time,chat,chat,,build11-chat-article-growth,needs_review
+chahi,,year,time,chat,chat,,build11-chat-article-growth,needs_review
+matam,,time,time,chat,chat,,build11-chat-article-growth,needs_review
+pung,,hour / clock,time,chat,chat,,build11-chat-article-growth,needs_review
+pung kayada,,what time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+matam kayada,,at what time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+chak matam,,meal time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+school matam,,school time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+meeting matam,,meeting time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+work matam,,work time,phrase,chat,chat,,build11-chat-article-growth,needs_review
+online-da,,online at / on online,mixed,chat,chat,,build11-chat-article-growth,needs_review
+phone-da,,on phone,mixed,chat,chat,,build11-chat-article-growth,needs_review
+whatsapp-da,,on WhatsApp,mixed,chat,chat,,build11-chat-article-growth,needs_review
+facebook-da,,on Facebook,mixed,chat,chat,,build11-chat-article-growth,needs_review
+youtube-da,,on YouTube,mixed,chat,chat,,build11-chat-article-growth,needs_review
+message touro,,send a message,phrase,chat,chat,,build11-chat-article-growth,needs_review
+touba,,to do,verb,verb,chat,,build11-chat-article-growth,needs_review
+toui,,to do (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+toure,,to do (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+touro,,to do (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+touliba,,to do (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tougani,,to do (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+toudre,,to do (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leiba,,to be / to live,verb,verb,chat,,build11-chat-article-growth,needs_review
+leii,,to be / to live (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leire,,to be / to live (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leiro,,to be / to live (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leiliba,,to be / to live (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leigani,,to be / to live (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+leidre,,to be / to live (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chatpa,,to go,verb,verb,chat,,build11-chat-article-growth,needs_review
+lakpa,,to come,verb,verb,chat,,build11-chat-article-growth,needs_review
+chaba,,to eat,verb,verb,chat,,build11-chat-article-growth,needs_review
+chai,,to eat (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chare,,to eat (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+charo,,to eat (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chaliba,,to eat (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chagani,,to eat (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chadre,,to eat (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thakpa,,to drink,verb,verb,chat,,build11-chat-article-growth,needs_review
+tumba,,to sleep,verb,verb,chat,,build11-chat-article-growth,needs_review
+tumi,,to sleep (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tumre,,to sleep (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tumro,,to sleep (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tumliba,,to sleep (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tumgani,,to sleep (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tumdre,,to sleep (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+houba,,to start / wake,verb,verb,chat,,build11-chat-article-growth,needs_review
+houi,,to start / wake (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+houre,,to start / wake (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+houro,,to start / wake (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+houliba,,to start / wake (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hougani,,to start / wake (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+houdre,,to start / wake (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paaba,,to read,verb,verb,chat,,build11-chat-article-growth,needs_review
+paai,,to read (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paare,,to read (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paaro,,to read (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paaliba,,to read (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paagani,,to read (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paadre,,to read (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eiba,,to write,verb,verb,chat,,build11-chat-article-growth,needs_review
+eii,,to write (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eire,,to write (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eiro,,to write (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eiliba,,to write (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eigani,,to write (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+eidre,,to write (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yengba,,to see / look,verb,verb,chat,,build11-chat-article-growth,needs_review
+yengi,,to see / look (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yengre,,to see / look (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yengro,,to see / look (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yengliba,,to see / look (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yenggani,,to see / look (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+yengdre,,to see / look (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamba,,to learn,verb,verb,chat,,build11-chat-article-growth,needs_review
+tami,,to learn (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamre,,to learn (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamro,,to learn (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamliba,,to learn (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamgani,,to learn (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+tamdre,,to learn (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamba,,to want,verb,verb,chat,,build11-chat-article-growth,needs_review
+pami,,to want (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamre,,to want (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamro,,to want (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamliba,,to want (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamgani,,to want (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pamdre,,to want (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamba,,to be able,verb,verb,chat,,build11-chat-article-growth,needs_review
+ngami,,to be able (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamre,,to be able (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamro,,to be able (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamliba,,to be able (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamgani,,to be able (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ngamdre,,to be able (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phangba,,to get / receive,verb,verb,chat,,build11-chat-article-growth,needs_review
+phangi,,to get / receive (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phangre,,to get / receive (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phangro,,to get / receive (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phangliba,,to get / receive (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phanggani,,to get / receive (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+phangdre,,to get / receive (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+piba,,to give,verb,verb,chat,,build11-chat-article-growth,needs_review
+pii,,to give (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pire,,to give (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+piro,,to give (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+piliba,,to give (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pigani,,to give (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pidre,,to give (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+louba,,to take,verb,verb,chat,,build11-chat-article-growth,needs_review
+loui,,to take (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+loure,,to take (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+louro,,to take (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+louliba,,to take (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+lougani,,to take (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+loudre,,to take (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamba,,to keep / place,verb,verb,chat,,build11-chat-article-growth,needs_review
+thami,,to keep / place (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamre,,to keep / place (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamro,,to keep / place (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamliba,,to keep / place (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamgani,,to keep / place (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thamdre,,to keep / place (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khangba,,to know,verb,verb,chat,,build11-chat-article-growth,needs_review
+khangi,,to know (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khangre,,to know (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khangro,,to know (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khangliba,,to know (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khanggani,,to know (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khangdre,,to know (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hangba,,to ask,verb,verb,chat,,build11-chat-article-growth,needs_review
+hangi,,to ask (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hangre,,to ask (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hangro,,to ask (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hangliba,,to ask (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hanggani,,to ask (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hangdre,,to ask (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojelba,,to inform,verb,verb,chat,,build11-chat-article-growth,needs_review
+paojeli,,to inform (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojelre,,to inform (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojelro,,to inform (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojelliba,,to inform (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojelgani,,to inform (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+paojeldre,,to inform (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nangba,,to need,verb,verb,chat,,build11-chat-article-growth,needs_review
+nangi,,to need (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nangre,,to need (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nangro,,to need (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nangliba,,to need (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nanggani,,to need (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nangdre,,to need (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thingba,,to stop,verb,verb,chat,,build11-chat-article-growth,needs_review
+thingi,,to stop (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thingre,,to stop (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thingro,,to stop (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thingliba,,to stop (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thinggani,,to stop (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thingdre,,to stop (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+chathokpa,,to leave/go out,verb,verb,chat,,build11-chat-article-growth,needs_review
+pairiba,,to read / currently reading,verb,verb,chat,,build11-chat-article-growth,needs_review
+pairii,,to read / currently reading (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pairire,,to read / currently reading (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pairiro,,to read / currently reading (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pairiliba,,to read / currently reading (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pairigani,,to read / currently reading (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pairidre,,to read / currently reading (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+iriba,,to write / currently writing,verb,verb,chat,,build11-chat-article-growth,needs_review
+irii,,to write / currently writing (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+irire,,to write / currently writing (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+iriro,,to write / currently writing (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+iriliba,,to write / currently writing (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+irigani,,to write / currently writing (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+iridre,,to write / currently writing (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+wari sanaba,,to discuss / tell story,verb,verb,chat,,build11-chat-article-growth,needs_review
+khongchatpa,,to travel,verb,verb,chat,,build11-chat-article-growth,needs_review
+semba,,to make / prepare,verb,verb,chat,,build11-chat-article-growth,needs_review
+semi,,to make / prepare (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+semre,,to make / prepare (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+semro,,to make / prepare (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+semliba,,to make / prepare (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+semgani,,to make / prepare (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+semdre,,to make / prepare (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+saruk yaba,,to participate,verb,verb,chat,,build11-chat-article-growth,needs_review
+thijinba,,to search,verb,verb,chat,,build11-chat-article-growth,needs_review
+thijini,,to search (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thijinre,,to search (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thijinro,,to search (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thijinliba,,to search (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thijingani,,to search (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thijindre,,to search (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajaba,,to believe,verb,verb,chat,,build11-chat-article-growth,needs_review
+thajai,,to believe (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajare,,to believe (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajaro,,to believe (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajaliba,,to believe (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajagani,,to believe (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+thajadre,,to believe (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ningba,,to remember / think,verb,verb,chat,,build11-chat-article-growth,needs_review
+ningi,,to remember / think (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ningre,,to remember / think (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ningro,,to remember / think (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ningliba,,to remember / think (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ninggani,,to remember / think (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+ningdre,,to remember / think (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+pokpa,,to be born,verb,verb,chat,,build11-chat-article-growth,needs_review
+hingba,,to live,verb,verb,chat,,build11-chat-article-growth,needs_review
+hingi,,to live (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hingre,,to live (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hingro,,to live (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hingliba,,to live (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hinggani,,to live (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+hingdre,,to live (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+siba,,to die,verb,verb,chat,,build11-chat-article-growth,needs_review
+sii,,to die (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+sire,,to die (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+siro,,to die (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+siliba,,to die (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+sigani,,to die (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+sidre,,to die (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungaiba,,to be happy,verb,verb,chat,,build11-chat-article-growth,needs_review
+nungaii,,to be happy (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungaire,,to be happy (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungairo,,to be happy (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungailiba,,to be happy (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungaigani,,to be happy (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungaidre,,to be happy (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khungangba,,to be afraid,verb,verb,chat,,build11-chat-article-growth,needs_review
+khungangi,,to be afraid (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khungangre,,to be afraid (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khungangro,,to be afraid (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khungangliba,,to be afraid (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khunganggani,,to be afraid (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+khungangdre,,to be afraid (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshiba,,to love,verb,verb,chat,,build11-chat-article-growth,needs_review
+nungshii,,to love (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshire,,to love (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshiro,,to love (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshiliba,,to love (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshigani,,to love (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungshidre,,to love (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsiba,,to love variant,verb,verb,chat,,build11-chat-article-growth,needs_review
+nungsii,,to love variant (present form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsire,,to love variant (completed form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsiro,,to love variant (imperative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsiliba,,to love variant (progressive form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsigani,,to love variant (future form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+nungsidre,,to love variant (negative form candidate),verb-form,verb,chat,,build11-chat-article-growth,needs_review
+lairik paaba,,to read book,verb,verb,chat,,build11-chat-article-growth,needs_review
+article eiba,,to write article,verb,verb,chat,,build11-chat-article-growth,needs_review
+standard touba,,to standardise,verb,verb,chat,,build11-chat-article-growth,needs_review
+yum,,house / home,noun,place,chat,,build11-chat-article-growth,needs_review
+yumpham,,home area / household,noun,place,chat,,build11-chat-article-growth,needs_review
+keithel,,market,noun,place,chat,,build11-chat-article-growth,needs_review
+leikai,,locality / neighbourhood,noun,place,chat,,build11-chat-article-growth,needs_review
+lam,,land / road,noun,place,chat,,build11-chat-article-growth,needs_review
+lambi,,road,noun,place,chat,,build11-chat-article-growth,needs_review
+lampak,,open ground,noun,place,chat,,build11-chat-article-growth,needs_review
+sang,,room / hall,noun,place,chat,,build11-chat-article-growth,needs_review
+school,,school,noun,education,chat,,build11-chat-article-growth,needs_review
+college,,college,noun,education,chat,,build11-chat-article-growth,needs_review
+office,,office,noun,work,chat,,build11-chat-article-growth,needs_review
+hospital,,hospital,noun,health,chat,,build11-chat-article-growth,needs_review
+clinic,,clinic,noun,health,chat,,build11-chat-article-growth,needs_review
+dokan,,shop,noun,commerce,chat,,build11-chat-article-growth,needs_review
+bus stand,,bus stand,noun,travel,chat,,build11-chat-article-growth,needs_review
+airport,,airport,noun,travel,chat,,build11-chat-article-growth,needs_review
+station,,station,noun,travel,chat,,build11-chat-article-growth,needs_review
+hotel,,hotel,noun,travel,chat,,build11-chat-article-growth,needs_review
+restaurant,,restaurant,noun,food,chat,,build11-chat-article-growth,needs_review
+ima,,mother,noun,relation,chat,,build11-chat-article-growth,needs_review
+ipa,,father,noun,relation,chat,,build11-chat-article-growth,needs_review
+eche,,elder sister,noun,relation,chat,,build11-chat-article-growth,needs_review
+icha,,younger sibling / child,noun,relation,chat,,build11-chat-article-growth,needs_review
+ine,,aunt / mother relation,noun,relation,chat,,build11-chat-article-growth,needs_review
+itomba,,brother relation,noun,relation,chat,,build11-chat-article-growth,needs_review
+marup,,friend,noun,relation,chat,,build11-chat-article-growth,needs_review
+nupi,,woman,noun,person,chat,,build11-chat-article-growth,needs_review
+nupa,,man,noun,person,chat,,build11-chat-article-growth,needs_review
+macha,,child,noun,person,chat,,build11-chat-article-growth,needs_review
+angaang,,child,noun,person,chat,,build11-chat-article-growth,needs_review
+oja,,teacher,noun,person,chat,,build11-chat-article-growth,needs_review
+student,,student,noun,education,chat,,build11-chat-article-growth,needs_review
+doctor,,doctor,noun,health,chat,,build11-chat-article-growth,needs_review
+driver,,driver,noun,travel,chat,,build11-chat-article-growth,needs_review
+admin,,admin,noun,governance,chat,,build11-chat-article-growth,needs_review
+editor,,editor,noun,writing,chat,,build11-chat-article-growth,needs_review
+reviewer,,reviewer,noun,governance,chat,,build11-chat-article-growth,needs_review
+founder,,founder,noun,governance,chat,,build11-chat-article-growth,needs_review
+hakchang,,body,noun,health,chat,,build11-chat-article-growth,needs_review
+kok,,head,noun,body,chat,,build11-chat-article-growth,needs_review
+mit,,eye,noun,body,chat,,build11-chat-article-growth,needs_review
+nakong,,neck,noun,body,chat,,build11-chat-article-growth,needs_review
+khut,,hand,noun,body,chat,,build11-chat-article-growth,needs_review
+khong,,foot,noun,body,chat,,build11-chat-article-growth,needs_review
+nak,,ear,noun,body,chat,,build11-chat-article-growth,needs_review
+chin,,mouth,noun,body,chat,,build11-chat-article-growth,needs_review
+napan,,nose,noun,body,chat,,build11-chat-article-growth,needs_review
+nung,,heart / inside,noun,body,chat,,build11-chat-article-growth,needs_review
+thawai,,life / soul,noun,concept,chat,,build11-chat-article-growth,needs_review
+ming,,name,noun,identity,chat,,build11-chat-article-growth,needs_review
+machu,,colour,noun,noun,chat,,build11-chat-article-growth,needs_review
+ishing,,water,noun,food,chat,,build11-chat-article-growth,needs_review
+chak,,rice / food,noun,food,chat,,build11-chat-article-growth,needs_review
+thambal,,lotus,noun,nature,chat,,build11-chat-article-growth,needs_review
+upaal,,tree,noun,nature,chat,,build11-chat-article-growth,needs_review
+lei,,flower,noun,nature,chat,,build11-chat-article-growth,needs_review
+malem,,earth / world,noun,nature,chat,,build11-chat-article-growth,needs_review
+atiya,,sky,noun,nature,chat,,build11-chat-article-growth,needs_review
+nong,,rain,noun,nature,chat,,build11-chat-article-growth,needs_review
+nongsit,,wind,noun,nature,chat,,build11-chat-article-growth,needs_review
+mei,,fire,noun,nature,chat,,build11-chat-article-growth,needs_review
+ngari,,fermented fish,noun,food,chat,,build11-chat-article-growth,needs_review
+eromba,,eromba dish,noun,food,chat,,build11-chat-article-growth,needs_review
+singju,,singju salad,noun,food,chat,,build11-chat-article-growth,needs_review
+kangsoi,,kangsoi dish,noun,food,chat,,build11-chat-article-growth,needs_review
+champhut,,boiled food,noun,food,chat,,build11-chat-article-growth,needs_review
+uti,,uti dish,noun,food,chat,,build11-chat-article-growth,needs_review
+morok,,chilli,noun,food,chat,,build11-chat-article-growth,needs_review
+thum,,salt,noun,food,chat,,build11-chat-article-growth,needs_review
+chini,,sugar,noun,food,chat,,build11-chat-article-growth,needs_review
+cha,,tea,noun,food,chat,,build11-chat-article-growth,needs_review
+dudh,,milk,noun,food,chat,,build11-chat-article-growth,needs_review
+fruit,,fruit,noun,food,chat,,build11-chat-article-growth,needs_review
+heikru,,gooseberry / fruit,noun,food,chat,,build11-chat-article-growth,needs_review
+kihom,,pineapple,noun,food,chat,,build11-chat-article-growth,needs_review
+kabok,,puffed rice snack,noun,food,chat,,build11-chat-article-growth,needs_review
+lairik,,book,noun,writing,chat,,build11-chat-article-growth,needs_review
+wareng,,essay / article,noun,writing,chat,,build11-chat-article-growth,needs_review
+seireng,,poem,noun,writing,chat,,build11-chat-article-growth,needs_review
+wari,,story / discussion,noun,writing,chat,,build11-chat-article-growth,needs_review
+chapter,,chapter,noun,writing,chat,,build11-chat-article-growth,needs_review
+paragraph,,paragraph,noun,writing,chat,,build11-chat-article-growth,needs_review
+sentence,,sentence,noun,writing,chat,,build11-chat-article-growth,needs_review
+word,,word,noun,writing,chat,,build11-chat-article-growth,needs_review
+meaning,,meaning,noun,writing,chat,,build11-chat-article-growth,needs_review
+spelling,,spelling,noun,writing,chat,,build11-chat-article-growth,needs_review
+standard,,standard,noun,writing,chat,,build11-chat-article-growth,needs_review
+dictionary,,dictionary,noun,writing,chat,,build11-chat-article-growth,needs_review
+keyboard,,keyboard,noun,technology,chat,,build11-chat-article-growth,needs_review
+phone,,phone,noun,technology,chat,,build11-chat-article-growth,needs_review
+computer,,computer,noun,technology,chat,,build11-chat-article-growth,needs_review
+internet,,internet,noun,technology,chat,,build11-chat-article-growth,needs_review
+website,,website,noun,technology,chat,,build11-chat-article-growth,needs_review
+database,,database,noun,technology,chat,,build11-chat-article-growth,needs_review
+download,,download,noun,technology,chat,,build11-chat-article-growth,needs_review
+install,,install,noun,technology,chat,,build11-chat-article-growth,needs_review
+update,,update,noun,technology,chat,,build11-chat-article-growth,needs_review
+privacy,,privacy,noun,technology,chat,,build11-chat-article-growth,needs_review
+password,,password,noun,technology,chat,,build11-chat-article-growth,needs_review
+message,,message,noun,chat,chat,,build11-chat-article-growth,needs_review
+photo,,photo,noun,chat,chat,,build11-chat-article-growth,needs_review
+video,,video,noun,chat,chat,,build11-chat-article-growth,needs_review
+audio,,audio,noun,chat,chat,,build11-chat-article-growth,needs_review
+call,,call,noun,chat,chat,,build11-chat-article-growth,needs_review
+group,,group,noun,chat,chat,,build11-chat-article-growth,needs_review
+status,,status,noun,chat,chat,,build11-chat-article-growth,needs_review
+afaba,,good,adjective,description,chat,,build11-chat-article-growth,needs_review
+phajaba,,beautiful / nice,adjective,description,chat,,build11-chat-article-growth,needs_review
+fajaba,,good / nice variant,adjective,description,chat,,build11-chat-article-growth,needs_review
+chaoba,,big,adjective,description,chat,,build11-chat-article-growth,needs_review
+pikpa,,small,adjective,description,chat,,build11-chat-article-growth,needs_review
+anouba,,new,adjective,description,chat,,build11-chat-article-growth,needs_review
+ariba,,old,adjective,description,chat,,build11-chat-article-growth,needs_review
+chenba,,fast,adjective,description,chat,,build11-chat-article-growth,needs_review
+ningthina,,clearly / carefully,adjective,description,chat,,build11-chat-article-growth,needs_review
+achumba,,correct / true,adjective,description,chat,,build11-chat-article-growth,needs_review
+aranba,,wrong,adjective,description,chat,,build11-chat-article-growth,needs_review
+lupa,,expensive,adjective,description,chat,,build11-chat-article-growth,needs_review
+yathang,,order / instruction,adjective,description,chat,,build11-chat-article-growth,needs_review
+soina,,surely,adjective,description,chat,,build11-chat-article-growth,needs_review
+mayek sengba,,clear writing,adjective,description,chat,,build11-chat-article-growth,needs_review
+saruk yakhre,,participated,adjective,description,chat,,build11-chat-article-growth,needs_review
+kanba,,useful,adjective,description,chat,,build11-chat-article-growth,needs_review
+yamna kanba,,very useful,adjective,description,chat,,build11-chat-article-growth,needs_review
+light,,light,adjective,description,chat,,build11-chat-article-growth,needs_review
+dark,,dark,adjective,description,chat,,build11-chat-article-growth,needs_review
+simple,,simple,adjective,description,chat,,build11-chat-article-growth,needs_review
+easy,,easy,adjective,description,chat,,build11-chat-article-growth,needs_review
+hard,,hard,adjective,description,chat,,build11-chat-article-growth,needs_review
+ama,,one,number,number,chat,,build11-chat-article-growth,needs_review
+ani,,two,number,number,chat,,build11-chat-article-growth,needs_review
+ahum,,three,number,number,chat,,build11-chat-article-growth,needs_review
+mari,,four,number,number,chat,,build11-chat-article-growth,needs_review
+manga,,five,number,number,chat,,build11-chat-article-growth,needs_review
+taruk,,six,number,number,chat,,build11-chat-article-growth,needs_review
+taret,,seven,number,number,chat,,build11-chat-article-growth,needs_review
+nipan,,eight,number,number,chat,,build11-chat-article-growth,needs_review
+mapan,,nine,number,number,chat,,build11-chat-article-growth,needs_review
+tara,,ten,number,number,chat,,build11-chat-article-growth,needs_review
+tara-ama,,eleven,number,number,chat,,build11-chat-article-growth,needs_review
+tara-ani,,twelve,number,number,chat,,build11-chat-article-growth,needs_review
+tara-ahum,,thirteen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-mari,,fourteen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-manga,,fifteen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-taruk,,sixteen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-taret,,seventeen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-nipan,,eighteen,number,number,chat,,build11-chat-article-growth,needs_review
+tara-mapan,,nineteen,number,number,chat,,build11-chat-article-growth,needs_review
+kun,,twenty,number,number,chat,,build11-chat-article-growth,needs_review
+kun-ama,,twenty one,number,number,chat,,build11-chat-article-growth,needs_review
+kun-ani,,twenty two,number,number,chat,,build11-chat-article-growth,needs_review
+kun-tara,,thirty candidate,number,number,chat,,build11-chat-article-growth,needs_review
+chama,,hundred candidate,number,number,chat,,build11-chat-article-growth,needs_review
+lising,,thousand candidate,number,number,chat,,build11-chat-article-growth,needs_review
+imphal,,Imphal place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+thoubal,,Thoubal place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+bishnupur,,Bishnupur place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+churachandpur,,Churachandpur place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+kakching,,Kakching place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+ukhrul,,Ukhrul place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+senapati,,Senapati place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+tamenglong,,Tamenglong place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+jiribam,,Jiribam place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+kangpokpi,,Kangpokpi place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+tengnoupal,,Tengnoupal place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+chandel,,Chandel place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+pherzawl,,Pherzawl place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+noney,,Noney place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+kamjong,,Kamjong place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+moreh,,Moreh place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+lamka,,Lamka place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+moirang,,Moirang place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+kangla,,Kangla place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+porompat,,Porompat place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+singjamei,,Singjamei place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+keishampat,,Keishampat place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+paona,,Paona place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+bazar,,Bazar place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+thangal,,Thangal place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+khwairamband,,Khwairamband place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+loktak,,Loktak place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+sendra,,Sendra place name,proper-noun,place-name,chat,,build11-chat-article-growth,needs_review
+khurumjari,,greetings / respectful hello,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+khoramchari,,hello / welcome variant,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+huranba,,thank you candidate,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+thagatchari,,thank you / gratitude,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+kamdouri,,how are you,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+fare,,I am fine / good,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+yamna nungai,,very happy / very nice,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+kari kouwe,,what is your name,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+eingondagi,,from me,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+laklibra,,are you coming,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+chatlibra,,are you going,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+leiribra,,are you there / living,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+chak charabra,,have you eaten,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+ising thakro,,drink water,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+houjik kari toure,,what are you doing now,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+eina lakle,,I have come,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+eina chatle,,I have gone,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+nang kadaida leiri,,where are you,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+pung kayada lakpa,,what time to come,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+ngasi kari plan,,what plan today,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+hayeng meeting leire,,meeting tomorrow,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+message pibiyu,,please send message,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+call toubiyu,,please call,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+photo thabiyu,,please send photo,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+help toubiyu,,please help,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+sorry touri,,I am sorry,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+aduga kari,,and then what,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+adubu matam leite,,but there is no time,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+eibu khangdana,,do not know me / without knowing me,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+eigi ming,,my name,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+nanggi ming kari,,what is your name,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+mayek ama,,one script / letter,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+roman manipuri,,Roman Manipuri,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+mayekama standard,,MayekAma standard,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+standard spelling,,standard spelling,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+temporary word,,temporary word,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+approved word,,approved word,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+review touba,,to review,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+database yengba,,check database,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+dictionary yengba,,check dictionary,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+word submit touba,,submit word,phrase,chat-phrase,chat,,build11-chat-article-growth,needs_review
+temporary,,temporary,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+approved,,approved,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+rejected,,rejected,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+pending,,pending,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+submitted,,submitted,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+comment,,comment,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+thumbs-up,,thumbs up,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+vote,,vote,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+review,,review,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+merge,,merge,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+duplicate,,duplicate,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+alias,,alias,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+canonical,,canonical standard spelling,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+official,,official,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+unofficial,,unofficial,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+public,,public,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+private,,private,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+source,,source,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+license,,license,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+open-source,,open source,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+permission,,permission,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+import,,import,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+export,,export,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+release,,release,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+version,,version,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+language-pack,,language pack,governance-term,governance,formal,,build11-chat-article-growth,needs_review
+yes,,common mixed English loan/typing word: yes,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+no,,common mixed English loan/typing word: no,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+ok,,common mixed English loan/typing word: ok,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+okay,,common mixed English loan/typing word: okay,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+please,,common mixed English loan/typing word: please,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+thanks,,common mixed English loan/typing word: thanks,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+thank-you,,common mixed English loan/typing word: thank-you,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+sorry,,common mixed English loan/typing word: sorry,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+welcome,,common mixed English loan/typing word: welcome,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+hello,,common mixed English loan/typing word: hello,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+hi,,common mixed English loan/typing word: hi,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+bye,,common mixed English loan/typing word: bye,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+good,,common mixed English loan/typing word: good,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+bad,,common mixed English loan/typing word: bad,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+nice,,common mixed English loan/typing word: nice,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+urgent,,common mixed English loan/typing word: urgent,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+today,,common mixed English loan/typing word: today,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+tomorrow,,common mixed English loan/typing word: tomorrow,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+yesterday,,common mixed English loan/typing word: yesterday,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+morning,,common mixed English loan/typing word: morning,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+evening,,common mixed English loan/typing word: evening,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+night,,common mixed English loan/typing word: night,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+time,,common mixed English loan/typing word: time,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+work,,common mixed English loan/typing word: work,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+home,,common mixed English loan/typing word: home,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+exam,,common mixed English loan/typing word: exam,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+result,,common mixed English loan/typing word: result,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+class,,common mixed English loan/typing word: class,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+teacher,,common mixed English loan/typing word: teacher,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+book,,common mixed English loan/typing word: book,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+article,,common mixed English loan/typing word: article,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+story,,common mixed English loan/typing word: story,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+poem,,common mixed English loan/typing word: poem,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+meeting,,common mixed English loan/typing word: meeting,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+family,,common mixed English loan/typing word: family,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+friend,,common mixed English loan/typing word: friend,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+market,,common mixed English loan/typing word: market,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+shop,,common mixed English loan/typing word: shop,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+bus,,common mixed English loan/typing word: bus,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+car,,common mixed English loan/typing word: car,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+bike,,common mixed English loan/typing word: bike,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+taxi,,common mixed English loan/typing word: taxi,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+medicine,,common mixed English loan/typing word: medicine,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+laptop,,common mixed English loan/typing word: laptop,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+online,,common mixed English loan/typing word: online,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+offline,,common mixed English loan/typing word: offline,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+facebook,,common mixed English loan/typing word: facebook,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+whatsapp,,common mixed English loan/typing word: whatsapp,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+instagram,,common mixed English loan/typing word: instagram,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+youtube,,common mixed English loan/typing word: youtube,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+google,,common mixed English loan/typing word: google,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+email,,common mixed English loan/typing word: email,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+link,,common mixed English loan/typing word: link,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+copy,,common mixed English loan/typing word: copy,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+paste,,common mixed English loan/typing word: paste,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+search,,common mixed English loan/typing word: search,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+send,,common mixed English loan/typing word: send,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+receive,,common mixed English loan/typing word: receive,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+upload,,common mixed English loan/typing word: upload,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+open,,common mixed English loan/typing word: open,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+close,,common mixed English loan/typing word: close,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+save,,common mixed English loan/typing word: save,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+delete,,common mixed English loan/typing word: delete,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+setting,,common mixed English loan/typing word: setting,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+app,,common mixed English loan/typing word: app,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+api,,common mixed English loan/typing word: api,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+login,,common mixed English loan/typing word: login,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+logout,,common mixed English loan/typing word: logout,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+signup,,common mixed English loan/typing word: signup,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+subscribe,,common mixed English loan/typing word: subscribe,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+share,,common mixed English loan/typing word: share,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+like,,common mixed English loan/typing word: like,loanword,mixed-english,chat,,build11-chat-article-growth,needs_review
+chatba,,chat+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chati,,chat+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chatle,,chat+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chatro,,chat+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chatgani,,chat+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chatliba,,chat+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+chatdre,,chat+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakba,,lak+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+laki,,lak+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakle,,lak+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakro,,lak+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakgani,,lak+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakliba,,lak+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+lakdre,,lak+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+toupa,,tou+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+toule,,tou+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paipa,,pai+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paiba,,pai+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paii,,pai+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paile,,pai+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+pairo,,pai+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paigani,,pai+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+pailiba,,pai+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paidre,,pai+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+eipa,,ei+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+eile,,ei+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangpa,,tang+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangba,,tang+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangi,,tang+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangle,,tang+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangro,,tang+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tanggani,,tang+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangliba,,tang+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+tangdre,,tang+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+phangpa,,phang+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+phangle,,phang+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paopa,,pao+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paoba,,pao+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paoi,,pao+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paole,,pao+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paoro,,pao+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paogani,,pao+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paoliba,,pao+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+paodre,,pao+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+yengpa,,yeng+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+yengle,,yeng+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+khangpa,,khang+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+khangle,,khang+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+nangpa,,nang+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+nangle,,nang+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+thampa,,tham+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+thamle,,tham+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sempa,,sem+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+semle,,sem+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+thijinpa,,thijin+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+thijinle,,thijin+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewpa,,review+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewba,,review+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewi,,review+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewle,,review+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewro,,review+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewgani,,review+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewliba,,review+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+reviewdre,,review+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitpa,,submit+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitba,,submit+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submiti,,submit+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitle,,submit+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitro,,submit+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitgani,,submit+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitliba,,submit+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+submitdre,,submit+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardpa,,standard+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardba,,standard+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardi,,standard+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardle,,standard+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardro,,standard+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardgani,,standard+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standardliba,,standard+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+standarddre,,standard+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadpa,,download+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadba,,download+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadi,,download+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadle,,download+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadro,,download+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadgani,,download+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloadliba,,download+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+downloaddre,,download+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installpa,,install+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installba,,install+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installi,,install+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installle,,install+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installro,,install+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installgani,,install+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installliba,,install+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+installdre,,install+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchpa,,search+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchba,,search+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchi,,search+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchle,,search+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchro,,search+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchgani,,search+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchliba,,search+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+searchdre,,search+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copypa,,copy+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copyba,,copy+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copyi,,copy+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copyle,,copy+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copyro,,copy+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copygani,,copy+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copyliba,,copy+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+copydre,,copy+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharepa,,share+pa nominal/verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+shareba,,share+ba verb candidate; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharei,,share+i present form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharele,,share+le completed form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharero,,share+ro request/imperative; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharegani,,share+gani future form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+shareliba,,share+liba progressive form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review
+sharedre,,share+dre negative form; candidate form needing review,derived-form,generated-candidate,chat,,build11-chat-article-growth,needs_review

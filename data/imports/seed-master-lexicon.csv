@@ -1,0 +1,76 @@
+canonical,aliases,meaning,partOfSpeech,domain,level,example
+eina,aina|ena,I / me,pronoun,daily,chat,Eina lak-i.
+eigi,aigi|egi|eigii,my / mine,possessive pronoun,daily,chat,Eigi ming MayekAma ni.
+nang,nahang|nng,you,pronoun,daily,chat,Nang kadaida leiri?
+nangbu,nngbu,you / to you,pronoun,daily,chat,Eina nangbu nungshi.
+nungshi,noongshi|nungsi|nungsee,love,verb/noun,daily,chat,Eina nangbu nungshi.
+kari,kori|karee,what,question word,daily,chat,Kari toure?
+kadaida,kadada|kadaidaa,where,question word,daily,chat,Nang kadaida chatli?
+houjik,hojik|houjiki,now,adverb,daily,chat,Houjik lak-u.
+lak-u,laku|lakoo|lakh-u,come,verb,daily,chat,Houjik lak-u.
+chatli,chatle|chatlee,going,verb,daily,chat,Eina school-da chatli.
+leiri,leire|leeree,is / staying / existing,verb,daily,chat,Meeting adu 10 am da leiri.
+adu,addu|aduu,that / the,determiner,daily,chat,Meeting adu leiri.
+asi,ashi|asi,this,determiner,daily,chat,App asi phajare.
+yamna,yamuna,very,adverb,daily,chat,Yamna phajare.
+phajare,fajare|phajaree,beautiful / good,adjective,daily,chat,MayekAma phajare.
+thagatchari,thankchari|thagatchare|thagatcharee,thank you,phrase,daily,formal,Thagatchari.
+ming,meng,name,noun,daily,chat,Nangi ming kari kou-i?
+yum,yoom,home / house,noun,family,chat,Eina yum-da leiri.
+ima,eema,mother,noun,family,chat,Ima yum-da leiri.
+ipa,epa,father,noun,family,chat,Ipa lak-i.
+ichan,echan,child,noun,family,chat,Ichan school-da chatli.
+school,iskul,school,noun,school,chat,School-da chatli.
+college,kolej,college,noun,school,chat,College-da leiri.
+pao,pow,news / message,noun,writing,editorial,Pao asi phajare.
+warol,waral,article / writing,noun,writing,editorial,Warol asi MayekAma standard-da i.
+standard,,standard,noun,writing,formal,MayekAma standard ama semgat-i.
+mayek,maiek,letter / script,noun,writing,formal,Mayek amasung wahei standard oigani.
+wahei,wahe,word,noun,writing,formal,Wahei ama canonical oigani.
+lairik,,book,noun,writing,formal,Lairik ama Roman Manipuri-da i.
+imphal,,Imphal,place,place,formal,Imphal-da MayekAma sijinnari.
+manipur,manipoor,Manipur,place,place,formal,Manipur-gi mapanda standard ama semgat-i.
+keyboard,keybord,keyboard,noun,technology,chat,Keyboard asi default oigani.
+download,,download,verb,technology,chat,App asi download tou-u.
+install,instal,install,verb,technology,chat,Install touba matungda keyboard select tou-u.
+privacy,praivasi,privacy,noun,technology,formal,Privacy asi henna maru oigani.
+api,a-p-i,API,noun,technology,formal,API-da normalise endpoint leigani.
+teacher,ticher,teacher,noun,school,formal,Teacher-singna standard sijinnagani.
+student,studen,student,noun,school,formal,Student-singna MayekAma keyboard sijinnagani.
+notice,notis,notice,noun,school,formal,School notice ama i.
+article,artikle,article,noun,writing,editorial,Article ama standard-da normalise tou-i.
+letter,letar,letter,noun,writing,formal,Formal letter ama i.
+book,,book,noun,writing,formal,Book writing mode later leigani.
+chapter,chaptar,chapter,noun,writing,formal,Chapter ama edit tou-i.
+paragraph,paragraf,paragraph,noun,writing,formal,Paragraph asi normalise tou-i.
+sentence,sentens,sentence,noun,writing,formal,Sentence structure check tou-i.
+dictionary,dikshonari,dictionary,noun,writing,formal,Dictionary asi public oigani.
+meaning,mining,meaning,noun,writing,formal,Meaning asi review tou-i.
+example,exampol,example,noun,writing,formal,Example sentence ama pi.
+review,rivu,review,verb,governance,formal,Reviewer-na wahei review tou-i.
+approve,apruv,approve,verb,governance,formal,Admin-na word approve tou-i.
+release,rilis,release,noun,technology,formal,Language pack release tou-i.
+version,varsan,version,noun,technology,formal,Standard version RMS-0.1 ni.
+source,sors,source,noun,governance,formal,Source licence check tou-i.
+licence,license,licence,noun,governance,formal,Licence clear oirabadi import tou-i.
+alias,,alias / variant spelling,noun,governance,formal,Alias asi recognition-only oigani.
+canonical,,official spelling,adjective,governance,formal,Canonical word ama select tou-i.
+formal,,formal,adjective,writing,formal,Formal mode-da stricter spelling oigani.
+chat,,chat,noun,daily,chat,Chat mode-da typing fast oigani.
+editorial,,editorial,adjective,writing,editorial,Editorial mode article oinaba semgat-i.
+translate,,translate,verb,translation,formal,English text translate tou-i.
+normalise,normalize,standardise spelling,verb,writing,formal,Roman text normalise tou-i.
+prediction,predikson,prediction,noun,technology,formal,Keyboard prediction local-da run tou-i.
+offline,,offline,adjective,technology,formal,Offline-first design ni.
+online,,online,adjective,technology,chat,Online update puthok-i.
+update,,update,verb,technology,chat,Dictionary update download tou-i.
+android,,Android,noun,technology,formal,Android keyboard first release ni.
+ios,,iOS,noun,technology,formal,iOS keyboard later Xcode-da build tou-i.
+website,websait,website,noun,technology,chat,Website-da writer leigani.
+writer,raitar,writer,noun,writing,formal,MayekAma Writer-da lairik i.
+ai,,AI,noun,technology,formal,AI output draft oigani.
+school-sing,schools,schools,noun,school,formal,School-singna standard sijinnagani.
+college-sing,colleges,colleges,noun,school,formal,College-singda MayekAma introduce tou-i.
+publisher,pablishar,publisher,noun,writing,formal,Publisher plan later leigani.
+government,govt,government,noun,governance,formal,Government terminology pack later leigani.
+community,komuniti,community,noun,governance,formal,Community submissions maru oigani.

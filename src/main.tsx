@@ -22,7 +22,7 @@ type Contribution = {
 };
 
 const navItems = [
-  ['Keyboard', '#keyboard'], ['Writer', '#writer'], ['Dictionary', '#dictionary'],
+  ['Keyboard', '#keyboard'], ['Writer', '#writer'], ['Database', '#database'], ['Dictionary', '#dictionary'],
   ['Install', '#install'], ['Standard', '#standard'], ['AI', '#ai'], ['API', '#api']
 ] as const;
 
@@ -83,6 +83,24 @@ function Features() { return <section className="section" id="keyboard"><div cla
 
 function SectionTitle({eyebrow,title,text}:{eyebrow?:string; title:string; text:string}) { return <div className="section-title">{eyebrow && <div className="eyebrow">{eyebrow}</div>}<h2>{title}</h2><p>{text}</p></div>; }
 
+function CheckDatabaseButton({label = 'Check our database'}:{label?: string}) {
+  return <a className="btn database-check" href="#database-browser"><Search size={16}/> {label}</a>;
+}
+
+function databaseStats() {
+  const total = starterDictionary.length;
+  const reviewed = starterDictionary.filter(w => w.reviewed).length;
+  const needsReview = total - reviewed;
+  const domains = new Map<string, number>();
+  const levels = new Map<string, number>();
+  for (const word of starterDictionary) {
+    domains.set(word.domain || 'general', (domains.get(word.domain || 'general') || 0) + 1);
+    levels.set(word.level, (levels.get(word.level) || 0) + 1);
+  }
+  const domainList = [...domains.entries()].sort((a,b)=>b[1]-a[1]).slice(0, 12);
+  return { total, reviewed, needsReview, domainList, levels: [...levels.entries()] };
+}
+
 const steps = [[Download,'Download the app','Install MayekAma on Android.'],[Settings,'Enable keyboard','Turn it on inside Android input settings.'],[Keyboard,'Select as default','Choose MayekAma as the daily keyboard.'],[Globe2,'Type anywhere','Use it in WhatsApp, Facebook, YouTube, Instagram and browsers.'],[Sparkles,'Write faster','Get standard Roman Manipuri predictions without keyboard switching.']] as const;
 function InstallGuide() { return <section className="section paper" id="install"><div className="container"><SectionTitle eyebrow="Photo journal / flyer" title="How to install and use MayekAma" text="This section becomes the public installation guide, school flyer and app onboarding flow."/><div className="steps">{steps.map(([Icon, label, detail], idx)=><div className="step card" key={label}><div className="circle"><Icon size={36}/></div><div className="badge">{idx+1}</div><strong>{label}</strong><p>{detail}</p></div>)}</div><div className="center-actions"><a className="btn primary" href="#download"><Download size={17}/> Download Android APK</a><a className="btn" href="#writer">Try before installing</a></div></div></section>; }
 
@@ -117,12 +135,30 @@ function makeDraft(input: string, mode: string) {
   return `Formal draft:\n\nRespected Sir/Madam,\n\n${base}\n\nMayekAma asi Roman Manipuri standard spelling amasung everyday keyboard support touba digital platform ni. Masi students, writers, teachers amasung community pumnamakki oina semgatpa project ni.\n\nThagatchari.`;
 }
 
+
+
+function LanguageDatabase() {
+  const stats = databaseStats();
+  const sourceStats = [
+    ['Current word inventory', `${stats.total} canonical entries`],
+    ['Needs review', `${stats.needsReview} candidate entries`],
+    ['Book-writing layers', 'terms, phrases, examples, releases'],
+    ['Legal status', 'licensed/import-safe only']
+  ];
+  return <section className="section tinted" id="database"><div className="container"><SectionTitle eyebrow="Language database" title="Building the largest Roman Manipuri database safely" text="The database grows through one master lexicon, dedupe rules, temporary public submissions and admin approval. New words are added only if they are not already present or they cleanly merge with an existing entry."/>
+    <div className="center-actions database-actions"><CheckDatabaseButton label="Check our database"/><a className="btn" href="#contribute"><PlusCircle size={16}/> Add missing word</a></div>
+    <div className="standard-grid">{sourceStats.map(([label,value])=><div className="card" key={label}><h3>{label}</h3><p>{value}</p></div>)}</div>
+    <div className="card notice"><strong>Database policy:</strong> MayekAma will use community submissions, original examples, public/open datasets and properly licensed sources. Reference dictionaries and online tools are catalogued for research, but not bulk-copied without permission.</div>
+  </div></section>;
+}
+
 function Dictionary() {
   const [q, setQ] = useState('');
   const results = lookup(q);
   const [selectedId, setSelectedId] = useState(starterDictionary[0].id);
   const current = results.find(w=>w.id===selectedId) ?? results[0] ?? starterDictionary[0];
   return <section className="section" id="dictionary"><div className="container"><SectionTitle eyebrow="Dictionary" title="The public word database" text="One canonical word appears to users. Aliases remain behind the scenes for recognition and migration."/>
+    <div className="center-actions database-actions"><CheckDatabaseButton label="Check our database"/><a className="btn" href="#contribute"><PlusCircle size={16}/> Submit missing word</a></div>
     <div className="dictionary"><div className="card"><input className="search" value={q} onChange={e=>setQ(e.target.value)} placeholder="Search word, alias, or meaning"/><div className="word-list">{results.map(word=><button className={`word-item ${word.id===current.id?'active':''}`} key={word.id} onClick={()=>setSelectedId(word.id)}><div className="word-head"><strong>{word.canonical}</strong><span className="tag">{word.partOfSpeech}</span></div><small>{word.meaning}</small></button>)}</div></div>
     <WordDetail word={current}/></div></div></section>;
 }
@@ -132,11 +168,93 @@ function WordDetail({word}:{word: MayekWord}) { return <div className="card"><di
 function Contributions() {
   const { items, save } = useLocalContributions();
   const [form, setForm] = useState({ word:'', suggested:'', meaning:'', example:'' });
-  function submit(e: React.FormEvent) { e.preventDefault(); if (!form.word.trim()) return; save([{ id: crypto.randomUUID(), status:'pending', createdAt: new Date().toISOString(), ...form }, ...items]); setForm({ word:'', suggested:'', meaning:'', example:'' }); }
-  function setStatus(id: string, status: Contribution['status']) { save(items.map(item => item.id === id ? { ...item, status } : item)); }
-  return <section className="section paper" id="contribute"><div className="container"><SectionTitle eyebrow="Governance" title="Contribute words and review the standard" text="Build 2 adds the first local workflow for word submissions and admin-style review. Supabase will make this multi-user in the next build."/>
-    <div className="writer-grid"><form className="card form" onSubmit={submit}><h3>Submit missing word</h3><input value={form.word} onChange={e=>setForm({...form, word:e.target.value})} placeholder="Word people type"/><input value={form.suggested} onChange={e=>setForm({...form, suggested:e.target.value})} placeholder="Suggested standard spelling"/><input value={form.meaning} onChange={e=>setForm({...form, meaning:e.target.value})} placeholder="Meaning"/><textarea value={form.example} onChange={e=>setForm({...form, example:e.target.value})} placeholder="Example sentence"/><button className="btn primary"><PlusCircle size={16}/> Submit for review</button></form>
-    <div className="card"><h3>Review queue</h3><div className="queue">{items.length === 0 && <p>No local submissions yet.</p>}{items.map(item=><div className="queue-item" key={item.id}><div><strong>{item.suggested || item.word}</strong><small>{item.word} · {item.meaning || 'meaning pending'}</small></div><span className={`status ${item.status}`}>{item.status}</span><div className="mini-actions"><button onClick={()=>setStatus(item.id,'approved')}>Approve</button><button onClick={()=>setStatus(item.id,'rejected')}>Reject</button></div></div>)}</div></div></div>
+  const [showTemp, setShowTemp] = useState(true);
+  const [commentDraft, setCommentDraft] = useState<Record<string, string>>({});
+  type TempContribution = Contribution & { votes?: number; comments?: string[] };
+  const tempItems = items as TempContribution[];
+  function submit(e: React.FormEvent) {
+    e.preventDefault();
+    if (!form.word.trim()) return;
+    const item: TempContribution = { id: crypto.randomUUID(), status:'pending', createdAt: new Date().toISOString(), votes: 0, comments: [], ...form };
+    save([item, ...items]);
+    setForm({ word:'', suggested:'', meaning:'', example:'' });
+    setShowTemp(true);
+  }
+  function updateItem(id: string, patch: Partial<TempContribution>) {
+    save(tempItems.map(item => item.id === id ? { ...item, ...patch } : item));
+  }
+  function setStatus(id: string, status: Contribution['status']) { updateItem(id, { status }); }
+  function vote(id: string) {
+    const item = tempItems.find(i => i.id === id);
+    updateItem(id, { votes: (item?.votes ?? 0) + 1 });
+  }
+  function addComment(id: string) {
+    const text = (commentDraft[id] || '').trim();
+    if (!text) return;
+    const item = tempItems.find(i => i.id === id);
+    updateItem(id, { comments: [...(item?.comments ?? []), text] });
+    setCommentDraft({ ...commentDraft, [id]: '' });
+  }
+  return <section className="section paper" id="contribute"><div className="container"><SectionTitle eyebrow="Governance" title="Contribute words and review the standard" text="Anyone can suggest a spelling without signing up. It goes into a temporary review area first; only admin-approved words are later merged into the official MayekAma database."/>
+    <div className="center-actions database-actions"><CheckDatabaseButton label="Check our database before adding"/><a className="btn" href="#database-browser"><BookOpen size={16}/> View A–Z word list</a></div>
+    <div className="writer-grid"><form className="card form" onSubmit={submit}><h3>Submit missing word</h3><input value={form.word} onChange={e=>setForm({...form, word:e.target.value})} placeholder="Word people type"/><input value={form.suggested} onChange={e=>setForm({...form, suggested:e.target.value})} placeholder="Suggested standard spelling"/><input value={form.meaning} onChange={e=>setForm({...form, meaning:e.target.value})} placeholder="Meaning"/><textarea value={form.example} onChange={e=>setForm({...form, example:e.target.value})} placeholder="Example sentence"/><button className="btn primary"><PlusCircle size={16}/> Submit temporary word</button><p className="microcopy">Temporary submissions are not added to the live standard automatically.</p></form>
+    <div className="card"><div className="panel-title"><span>Admin review queue</span><small>{items.length} temporary</small></div><div className="queue">{items.length === 0 && <p>No local submissions yet.</p>}{tempItems.slice(0, 8).map(item=><div className="queue-item" key={item.id}><div><strong>{item.suggested || item.word}</strong><small>{item.word} · {item.meaning || 'meaning pending'}</small></div><span className={`status ${item.status}`}>{item.status}</span><div className="mini-actions"><button onClick={()=>setStatus(item.id,'approved')}>Mark approved</button><button onClick={()=>setStatus(item.id,'rejected')}>Reject</button></div></div>)}</div></div></div>
+    <div className="card temp-review"><div className="panel-title"><span>Temporary words submitted</span><button className="btn small" onClick={()=>setShowTemp(!showTemp)}>{showTemp ? 'Hide' : 'Show'}</button></div><p>This public review prototype lets people like a spelling and leave comments. In production it will be stored in Supabase as a temporary table, separate from the approved dictionary.</p>{showTemp && <div className="temp-list">{items.length === 0 && <div className="notice">No public temporary words yet. Add the first word above.</div>}{tempItems.map(item=><div className="temp-word" key={item.id}><div><strong>{item.suggested || item.word}</strong><small> typed as “{item.word}” · {item.meaning || 'meaning pending'} · {item.status}</small>{item.example && <p>{item.example}</p>}</div><div className="vote-row"><button onClick={()=>vote(item.id)}>👍 {item.votes ?? 0}</button><input value={commentDraft[item.id] || ''} onChange={e=>setCommentDraft({...commentDraft, [item.id]: e.target.value})} placeholder="Comment on spelling"/><button onClick={()=>addComment(item.id)}>Comment</button></div>{(item.comments ?? []).length > 0 && <div className="comments">{(item.comments ?? []).map((c, idx)=><span key={idx}>{c}</span>)}</div>}</div>)}</div>}</div><BulkWordCheck/>
+  </div></section>;
+}
+
+
+
+function BulkWordCheck() {
+  const [raw, setRaw] = useState('matam\nkhurumjari\nmayekama\nnew-word-example');
+  const existing = useMemo(() => {
+    const map = new Map<string, MayekWord>();
+    for (const word of starterDictionary) {
+      map.set(word.canonical.toLowerCase(), word);
+      for (const alias of word.aliases) map.set(alias.toLowerCase(), word);
+    }
+    return map;
+  }, []);
+  const rows = useMemo(() => raw.split(/\r?\n|,/).map(item => item.trim().toLowerCase()).filter(Boolean).map(item => {
+    const match = existing.get(item);
+    return { item, match };
+  }), [raw, existing]);
+  const existingCount = rows.filter(row => row.match).length;
+  const missingCount = rows.length - existingCount;
+  return <div className="card bulk-check"><div className="panel-title"><span>Bulk check before adding</span><small>{existingCount} found · {missingCount} missing</small></div>
+    <p>Paste words line by line. MayekAma checks the official workbench database first, so contributors only submit what is missing.</p>
+    <textarea value={raw} onChange={e=>setRaw(e.target.value)} placeholder="Paste words here, one per line" />
+    <div className="bulk-results">{rows.slice(0, 80).map(({item, match}) => <div className={`bulk-row ${match ? 'exists' : 'missing'}`} key={item}><strong>{item}</strong><span>{match ? `Already exists as ${match.canonical} · ${match.meaning}` : 'Missing — can submit as temporary word'}</span></div>)}</div>
+  </div>;
+}
+
+function DatabaseBrowser() {
+  const stats = databaseStats();
+  const [q, setQ] = useState('');
+  const [domain, setDomain] = useState('all');
+  const domains = ['all', ...stats.domainList.map(([name]) => name)];
+  const words = useMemo(() => starterDictionary
+    .filter(word => domain === 'all' || (word.domain || 'general') === domain)
+    .filter(word => {
+      const query = q.trim().toLowerCase();
+      if (!query) return true;
+      return word.canonical.includes(query) || word.meaning.toLowerCase().includes(query) || word.partOfSpeech.toLowerCase().includes(query) || word.aliases.some(alias => alias.includes(query));
+    })
+    .sort((a,b)=>a.canonical.localeCompare(b.canonical)), [q, domain]);
+  const grouped = useMemo(() => {
+    const map = new Map<string, MayekWord[]>();
+    for (const word of words) {
+      const letter = (word.canonical[0] || '#').toUpperCase();
+      if (!map.has(letter)) map.set(letter, []);
+      map.get(letter)!.push(word);
+    }
+    return [...map.entries()].sort((a,b)=>a[0].localeCompare(b[0]));
+  }, [words]);
+  return <section className="section" id="database-browser"><div className="container"><SectionTitle eyebrow="Database browser" title="Check what is already inside MayekAma" text="This A–Z browser helps people avoid duplicate submissions. It shows the official workbench dictionary, while public temporary words remain in Governance until admin approval."/>
+    <div className="database-stat-row"><div className="card"><strong>{stats.total}</strong><span>Total entries</span></div><div className="card"><strong>{stats.reviewed}</strong><span>Reviewed</span></div><div className="card"><strong>{stats.needsReview}</strong><span>Need review</span></div><div className="card"><strong>{words.length}</strong><span>Showing now</span></div></div>
+    <div className="card database-browser-card"><div className="database-toolbar"><input className="search" value={q} onChange={e=>setQ(e.target.value)} placeholder="Search A–Z database before adding a word"/><select className="search" value={domain} onChange={e=>setDomain(e.target.value)}>{domains.map(d=><option key={d} value={d}>{d === 'all' ? 'All domains' : d}</option>)}</select><a className="btn primary" href="#contribute"><PlusCircle size={16}/> Add if missing</a></div>
+    <div className="domain-pills">{stats.domainList.map(([name,count])=><button key={name} onClick={()=>setDomain(name)} className={domain===name?'active':''}>{name} <span>{count}</span></button>)}</div>
+    <div className="az-list">{grouped.map(([letter, entries])=><div className="az-group" key={letter}><div className="az-letter">{letter}</div><div className="az-words">{entries.map(word=><div className="az-word" key={word.id}><strong>{word.canonical}</strong><span>{word.meaning}</span><small>{word.partOfSpeech} · {word.domain || 'general'} · {word.reviewed ? 'reviewed' : 'needs review'}</small></div>)}</div></div>)}</div></div>
   </div></section>;
 }
 
@@ -148,6 +266,6 @@ function DownloadPanel() { return <section className="section download-panel" id
 
 function Footer() { return <><div className="footer-band"><div className="container band-grid"><div><CheckCircle2/> First digital platform</div><div><ShieldCheck/> Private keyboard</div><div><Languages/> Made for Manipur</div><div><Sparkles/> For our people</div></div></div><footer className="footer" id="about"><div className="container footer-grid"><div><Logo/><p>A digital movement to standardize Roman Manipuri and empower generations to come.</p></div><div><h4>Product</h4><a href="#keyboard">Keyboard App</a><a href="#writer">Web Writer</a><a href="#dictionary">Dictionary</a><a href="#ai">AI Assistant</a></div><div><h4>Resources</h4><a href="#install">Installation Guide</a><a href="#standard">Standard 0.1</a><a href="#contribute">Contribute</a><a href="#api">API</a></div><div><h4>Company</h4><a href="#about">About Us</a><a href="#privacy">Privacy Policy</a><a href="#terms">Terms of Use</a><a href="#contact">Contact</a></div><div><h4>Stay connected</h4><p>Subscribe for updates and language-pack releases.</p><input className="search" placeholder="Enter your email"/><button className="btn primary" style={{marginTop:10}}>Subscribe</button></div></div></footer><nav className="bottom-nav"><a href="#keyboard"><Keyboard/>Keyboard</a><a href="#writer"><PencilLine/>Writer</a><a href="#dictionary"><BookOpen/>Words</a><a href="#install"><UploadCloud/>Install</a></nav></>; }
 
-function App() { return <><Header/><main><Hero/><Features/><InstallGuide/><Writer/><AiAssistant/><Dictionary/><Contributions/><Standard/><Api/><DownloadPanel/></main><Footer/></>; }
+function App() { return <><Header/><main><Hero/><Features/><InstallGuide/><Writer/><AiAssistant/><LanguageDatabase/><Dictionary/><DatabaseBrowser/><Contributions/><Standard/><Api/><DownloadPanel/></main><Footer/></>; }
 
 createRoot(document.getElementById('root')!).render(<App />);

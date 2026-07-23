@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-07-23T22:13:58.951Z",
+  "count": 1,
+  "rejects": [
+    {
+      "file": "seed-master-lexicon.csv",
+      "canonical": "ipa",
+      "alias": "epa",
+      "reason": "alias-collision-owned-by-iba",
+      "row": {
+        "canonical": "ipa",
+        "aliases": "epa",
+        "meaning": "father",
+        "partOfSpeech": "noun",
+        "domain": "family",
+        "level": "chat",
+        "example": "Ipa lak-i."
+      }
+    }
+  ]
+}

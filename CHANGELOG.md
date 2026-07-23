@@ -1,30 +1,16 @@
-# Changelog
+# MayekAma Build 12
 
-## 0.6.0-build6-rc
+- UI remains locked.
+- Added 547 more candidate chat/article/database words through the single import pipeline.
+- Master lexicon now contains 1,795 unique canonical entries after dedupe.
+- Added Governance bulk database pre-check helper.
+- Rebuilt the keyboard/web language pack from the master lexicon.
+- Added Build 12 database report and documentation.
 
-Build 6 of 6: release-candidate handover package.
 
-### Added
-- UI lock rule documentation.
-- Build 6 release-candidate status document.
-- APK handover document.
-- Supabase setup document.
-- API specification draft.
-- Vercel deployment guide.
-- Full testing checklist.
-- Release/API Supabase extension schema.
-- SEO files: robots.txt and sitemap.xml.
-- `release:check` and `build6:check` scripts.
-- Release report script.
+## Build 13 — Database growth
 
-### Preserved
-- Existing approved cream/maroon UI.
-- Existing public sections.
-- Existing writer, dictionary, contribution, standard, AI, API, and install sections.
-- Android keyboard source from Build 5.
-
-### Not included
-- Compiled APK.
-- Final iOS build.
-- Full real-world Manipuri corpus.
-- Government/academic recognition.
+- Added `data/imports/build13-researched-1000plus-growth.csv`.
+- Master database after merge: 3,105 unique canonical entries.
+- Added Build 13 database notes.
+- UI remains locked; no redesign.

@@ -1,0 +1,250 @@
+canonical,aliases,meaning,partOfSpeech,domain,level,example,sourceTag,reviewStatus
+hakchang,,body,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+kok,,head,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+mit,,eye,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+nakong,,neck,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+khut,,hand,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+khong,,leg / foot,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+nung,,heart / inside,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+napu,,stomach,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+machin,,face,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+manam,,smell,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+ayaba,,pain,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+anaoba,,sick,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+naba,,painful,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+hospital-da chatpa,,go to hospital,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+doctor,,doctor,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+medicine,,medicine,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+temperature,,temperature,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+fever,,fever,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+cough,,cough,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+rest touba,,to rest,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+yamna naba,,very painful,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+hakchang phatte,,not well,noun,health,chat,,build10-expanded-candidate-batch,needs_review
+nong,,rain,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+nong chaba,,raining,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+nongsaba,,rainy,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+numit nungshiba,,sunny,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+nungsit,,wind,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+nongpok,,east,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+nongchup,,west,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+awanglei,,north,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+kha,,south,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+ishei,,water / liquid,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+ee,,blood,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+mei,,fire,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+malem,,earth / world,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+leirol,,flower language / poetry,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+umang,,forest,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+ching,,hill,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+turel,,river,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+pat,,lake,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+thamchet,,bridge,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+thawanmichak,,star,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+thaomei,,lamp / light,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+light,,light,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+current,,electricity,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+internet,,internet,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+network,,network,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+signal,,signal,noun,nature-weather,chat,,build10-expanded-candidate-batch,needs_review
+chaklen,,meal,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+ayuk chak,,breakfast,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+nungthil chak,,lunch,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+numidang chak,,dinner,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+eromba,,eromba,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+singju,,singju,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+kangsoi,,kangsoi,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+ngari,,fermented fish,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+nga,,fish,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+yen,,chicken,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+san,,cow / beef,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+ootti,,ooti dish,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+paknam,,paknam,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+kabok,,kabok,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+chini,,sugar,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+thum,,salt,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+tel,,oil,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+cha,,tea,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+coffee,,coffee,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+dudh,,milk,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+heikru,,fruit,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+heibong,,fruit,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+moru,,chilli,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+aloo,,potato,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+vegetable,,vegetable,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+restaurant,,restaurant,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+hotel,,hotel,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+bill,,bill,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+price,,price,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+cheap,,cheap,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+expensive,,expensive,noun,food,chat,,build10-expanded-candidate-batch,needs_review
+auto,,auto rickshaw,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+bus,,bus,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+car,,car,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+bike,,bike,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+scooter,,scooter,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+taxi,,taxi,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+parking,,parking,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+traffic,,traffic,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+ticket,,ticket,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+airport,,airport,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+train,,train,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+station,,station,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+map,,map,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+location,,location,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+address,,address,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+nearby,,nearby,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+far,,far,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+nakna,,near,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+thengna,,directly,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+khudongchaba,,convenience,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+khudongthiba,,difficulty,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+sen kaya,,how much money,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+upi,,UPI,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+cash,,cash,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+payment,,payment,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+online payment,,online payment,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+balance,,balance,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+discount,,discount,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+receipt,,receipt,noun,market-transport,chat,,build10-expanded-candidate-batch,needs_review
+pukning,,mind / heart,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nungairi,,happy,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nungaitare,,became happy,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+kari amata natte,,nothing,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+wakhal thokpa,,to think,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nungshiba mi,,loved person,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+kaoraba,,forgotten,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+kaoba,,to forget,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nembiba,,to remember,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nembire,,remembered,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+thajaba,,trust / belief,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+aramaba,,tired,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+nungsiba,,sad / loving,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+sorri,,sorry,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+mafham pigadaba,,forgive me,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+thamoina,,with heart / sincerely,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+matam leitana,,without time,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+wariba,,conversation,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+wari sanba,,discuss,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+meeting touba,,to meet / do meeting,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+plan touba,,to plan,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+confirm touba,,to confirm,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+cancel touba,,to cancel,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+remind touba,,to remind,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+help touba,,to help,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+support touba,,to support,word,emotion-social,chat,,build10-expanded-candidate-batch,needs_review
+no,,question emphasis,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+ra,,question particle,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+gadra,,will / shall question,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+gani,,will,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+gani haiba,,will say,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+gani khalli,,think will,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+khoi,,plural / group,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+pumnamak,,all,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+amuk,,again,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+amuk hanna,,again / once more,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+hanna,,before / again,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+tungda,,after,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+mamungda,,before / in front,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+manungda,,inside,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+mapanda,,outside,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+mangda,,in front,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+matungda,,behind / after,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+leitraba,,without,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+oiba,,to be / become,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+oiraba,,became,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+oinaba,,for becoming,particle,grammar,chat,,build10-expanded-candidate-batch,needs_review
+temporary database,,temporary database,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+public review,,public review,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+comment box,,comment box,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+spelling vote,,spelling vote,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+canonical word,,standard word,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+duplicate,,duplicate,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+collision,,conflict,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+approved word,,approved word,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+rejected word,,rejected word,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+needs review,,needs review,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+language council,,language council,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+license,,license,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+open source,,open source,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+language pack,,language pack,governance,governance,formal,,build10-expanded-candidate-batch,needs_review
+lairik ama,,one book,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+chapter ama,,one chapter,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+paragraph ama,,one paragraph,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+sentence ama,,one sentence,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+author,,author,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+editor,,editor,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+proofread touba,,to proofread,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+grammar check,,grammar check,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+spelling check,,spelling check,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+style guide,,style guide,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+formal style,,formal style,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+chat style,,chat style,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+editorial style,,editorial style,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+book title,,book title,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+cover page,,cover page,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+index,,index,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+table of contents,,table of contents,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+preface,,preface,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+reference,,reference,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+appendix,,appendix,writing,book-writing,formal,,build10-expanded-candidate-batch,needs_review
+chandel,,chandel,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+imphal east,,imphal east,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+imphal west,,imphal west,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+kamjong,,kamjong,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+noney,,noney,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+pherzawl,,pherzawl,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+tengnoupal,,tengnoupal,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+moirang,,moirang,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+loktak lake,,loktak lake,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+keibul lamjao,,keibul lamjao,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+andro,,andro,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+singjamei,,singjamei,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+khurai,,khurai,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+porompat,,porompat,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+lamphel,,lamphel,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+langol,,langol,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+thangmeiband,,thangmeiband,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+paona bazar,,paona bazar,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+thangal bazar,,thangal bazar,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+kwa keithel,,kwa keithel,place,manipur-places,chat,,build10-expanded-candidate-batch,needs_review
+eina chatkani,,I will go,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina lakkani,,I will come,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina tougani,,I will do,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina pibiyu,,I please give,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina hanggani,,I will ask,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina paogani,,I will read,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina igani,,I will write,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina thamgani,,I will keep,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina share tougani,,I will share,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eina review tougani,,I will review,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang chatkani,,you will go,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang lakkani,,you will come,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang tougani,,you will do,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang pibiyu,,you please give,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang hanggani,,you will ask,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang paogani,,you will read,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang igani,,you will write,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang thamgani,,you will keep,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang share tougani,,you will share,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+nang review tougani,,you will review,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom chatkani,,you respectful will go,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom lakkani,,you respectful will come,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom tougani,,you respectful will do,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom pibiyu,,you respectful please give,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom hanggani,,you respectful will ask,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom paogani,,you respectful will read,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom igani,,you respectful will write,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom thamgani,,you respectful will keep,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom share tougani,,you respectful will share,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+adom review tougani,,you respectful will review,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi chatkani,,we will go,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi lakkani,,we will come,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi tougani,,we will do,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi pibiyu,,we please give,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi hanggani,,we will ask,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi paogani,,we will read,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi igani,,we will write,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi thamgani,,we will keep,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi share tougani,,we will share,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
+eikhoi review tougani,,we will review,phrase,generated-chat-phrases,chat,,build10-expanded-candidate-batch,needs_review
