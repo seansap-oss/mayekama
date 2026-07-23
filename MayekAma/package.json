@@ -1,0 +1,19 @@
+{
+  "name": "mayekama",
+  "private": true,
+  "version": "0.1.0",
+  "description": "MayekAma Roman Manipuri language platform: website, language engine, Android keyboard, iOS keyboard scaffold, Supabase schema.",
+  "workspaces": [
+    "apps/website",
+    "packages/language-engine"
+  ],
+  "scripts": {
+    "dev": "npm --workspace apps/website run dev",
+    "build": "npm --workspace apps/website run build",
+    "preview": "npm --workspace apps/website run preview",
+    "check": "npm --workspace apps/website run check"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

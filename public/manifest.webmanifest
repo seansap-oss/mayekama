@@ -1,0 +1,12 @@
+{
+  "name": "MayekAma Roman Manipuri",
+  "short_name": "MayekAma",
+  "description": "Roman Manipuri keyboard, writer and standard language platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ec",
+  "theme_color": "#8f120d",
+  "icons": [
+    {"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}
+  ]
+}
