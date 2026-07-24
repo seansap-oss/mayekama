@@ -7,7 +7,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name=".MayekAmaImeService" android:permission="android.permission.BIND_INPUT_METHOD" android:exported="true">
+        <service
+            android:name=".MayekAmaKeyboardService"
+            android:permission="android.permission.BIND_INPUT_METHOD"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.view.InputMethod" />
             </intent-filter>

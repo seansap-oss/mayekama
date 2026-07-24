@@ -1,23 +1,27 @@
-# MayekAma Roman Manipuri Standard 0.1
+# Roman Manipuri Standard 0.1 — MayekAma Working Draft
 
-This is a proposed digital writing standard for everyday Roman Manipuri. It is not presented as a government standard.
+This document is a working draft, not a government-recognised official standard.
 
-## Principles
+## Core principle
+Each word has one canonical Roman spelling. Other common spellings are recognised as aliases but are not promoted in predictions.
 
-1. One canonical spelling is promoted for each word.
-2. Alternative spellings are recognised as input aliases but not promoted.
-3. The keyboard should never aggressively rewrite private text without user action.
-4. Chat mode should feel natural; formal mode should be stricter.
-5. Personal names, place names and cultural terms must be protected from careless autocorrection.
-6. Changes to canonical spelling require review and a versioned release.
+## Example
+Canonical: `eigi`
+Aliases: `aigi`, `egi`, `eigii`
 
-## Database terms
+The keyboard may understand all forms, but it should suggest `eigi` as the standard.
 
-- **Canonical**: the promoted MayekAma standard spelling.
-- **Alias**: a recognised spelling that maps to the canonical word.
-- **Mode**: chat, formal, editorial or literary.
-- **Release**: a versioned language pack published to keyboards and web tools.
+## Governance
+Every approved word should include:
+- canonical spelling
+- aliases
+- meaning
+- part of speech
+- example sentence
+- reviewer decision
+- standard version
+- change history
 
-## Early implementation rule
-
-During MVP testing, the first suggestion can preserve what the user typed, while the second suggestion shows the canonical spelling. This prevents frustration while teaching the standard.
+## Initial product wording
+Use: "MayekAma Roman Manipuri Standard" or "a digital Roman Manipuri writing standard".
+Avoid claiming: "official state standard" unless formally recognised.

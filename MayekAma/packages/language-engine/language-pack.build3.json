@@ -1,0 +1,58 @@
+{
+  "version": "RMS-0.1-build3-local",
+  "releasedAt": "2026-07-24",
+  "standardName": "MayekAma Roman Manipuri Standard 0.1",
+  "warning": "Starter seed only. Not an authoritative full dictionary until reviewed by language experts.",
+  "words": [
+    {
+      "canonical": "eina",
+      "aliases": [
+        "aina",
+        "ena"
+      ],
+      "meaning": "I / me"
+    },
+    {
+      "canonical": "eigi",
+      "aliases": [
+        "aigi",
+        "egi",
+        "eigii"
+      ],
+      "meaning": "my / mine"
+    },
+    {
+      "canonical": "nungshi",
+      "aliases": [
+        "noongshi",
+        "nungsi",
+        "nungsee"
+      ],
+      "meaning": "love"
+    },
+    {
+      "canonical": "houjik",
+      "aliases": [
+        "hojik"
+      ],
+      "meaning": "now"
+    },
+    {
+      "canonical": "thagatchari",
+      "aliases": [
+        "thankchari",
+        "thagatchare"
+      ],
+      "meaning": "thank you"
+    }
+  ],
+  "nextWordPairs": {
+    "eina": [
+      "nangbu",
+      "houjik"
+    ],
+    "nangbu": [
+      "nungshi"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "name": "mayekama",
   "private": true,
-  "version": "0.13.0-build13-database-growth",
-  "description": "MayekAma Build 13: locked UI with 1000+ researched candidate word growth through the single dedupe master database pipeline.",
+  "version": "0.20.0-story-art-flat",
+  "description": "MayekAma Website Version 20: flat project packaging, active story artwork, complete Tapta reader layout, desktop/mobile footer navigation, and visible version marker.",
   "type": "module",
   "scripts": {
     "dev": "node ./node_modules/vite/bin/vite.js --host 0.0.0.0 --port 5173",
@@ -32,7 +32,8 @@
     "build10:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
     "build11:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
     "build12:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
-    "build13:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine"
+    "build13:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build16:check": "npm run check && npm run database:status && npm run database:pack && npm run build"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

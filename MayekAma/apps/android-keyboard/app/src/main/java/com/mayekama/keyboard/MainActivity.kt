@@ -2,67 +2,102 @@ package com.mayekama.keyboard
 
 import android.app.Activity
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.provider.Settings
 import android.view.Gravity
 import android.view.inputmethod.InputMethodManager
 import android.widget.Button
+import android.widget.CheckBox
+import android.widget.EditText
 import android.widget.LinearLayout
+import android.widget.SeekBar
 import android.widget.TextView
 
 class MainActivity : Activity() {
+    private lateinit var prefs: KeyboardPrefs
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        prefs = KeyboardPrefs(this)
+
         val root = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
-            gravity = Gravity.CENTER_HORIZONTAL
-            setPadding(40, 60, 40, 40)
-            setBackgroundColor(0xfffff8ee.toInt())
+            setPadding(42, 52, 42, 42)
+            setBackgroundColor(Color.rgb(250, 244, 235))
         }
-        val title = TextView(this).apply {
-            text = "MayekAma"
-            textSize = 34f
-            setTextColor(0xff8c120f.toInt())
-            gravity = Gravity.CENTER
-        }
-        val subtitle = TextView(this).apply {
-            text = "Roman Manipuri Keyboard & Standard
-Enable it once, then type English and Roman Manipuri everywhere."
-            textSize = 17f
-            setTextColor(0xff4f372f.toInt())
-            gravity = Gravity.CENTER
-            setPadding(0, 12, 0, 28)
-        }
-        val enable = actionButton("1. Enable MayekAma Keyboard") {
-            startActivity(Intent(Settings.ACTION_INPUT_METHOD_SETTINGS))
-        }
-        val select = actionButton("2. Select as Current Keyboard") {
-            val imm = getSystemService(INPUT_METHOD_SERVICE) as InputMethodManager
-            imm.showInputMethodPicker()
-        }
-        val test = TextView(this).apply {
-            text = "After selecting MayekAma, open WhatsApp, Facebook, YouTube comments, Gmail or any text box and start typing."
-            textSize = 15f
-            setTextColor(0xff6e5d52.toInt())
-            gravity = Gravity.CENTER
-            setPadding(0, 28, 0, 0)
-        }
-        root.addView(title)
-        root.addView(subtitle)
-        root.addView(enable)
-        root.addView(select)
-        root.addView(test)
-        setContentView(root)
-    }
 
-    private fun actionButton(label: String, action: () -> Unit): Button {
-        return Button(this).apply {
-            text = label
+        root.addView(TextView(this).apply {
+            text = "MayekAma"
+            textSize = 30f
+            setTextColor(Color.rgb(125, 18, 16))
+            gravity = Gravity.CENTER_HORIZONTAL
+        })
+
+        root.addView(TextView(this).apply {
+            text = "Roman Manipuri Keyboard\nEnable once. Select as default. Type English and Roman Manipuri anywhere."
             textSize = 16f
-            setTextColor(0xffffffff.toInt())
-            setBackgroundColor(0xff8c120f.toInt())
-            setPadding(20, 12, 20, 12)
-            setOnClickListener { action() }
-        }
+            setPadding(0, 18, 0, 28)
+            gravity = Gravity.CENTER_HORIZONTAL
+        })
+
+        root.addView(Button(this).apply {
+            text = "1. Enable MayekAma Keyboard"
+            setOnClickListener { startActivity(Intent(Settings.ACTION_INPUT_METHOD_SETTINGS)) }
+        })
+
+        root.addView(Button(this).apply {
+            text = "2. Select MayekAma Keyboard"
+            setOnClickListener { (getSystemService(INPUT_METHOD_SERVICE) as InputMethodManager).showInputMethodPicker() }
+        })
+
+        root.addView(EditText(this).apply {
+            hint = "3. Try typing here after selecting MayekAma"
+            minLines = 5
+            setPadding(18, 18, 18, 18)
+        })
+
+        root.addView(CheckBox(this).apply {
+            text = "Vibration feedback"
+            isChecked = prefs.vibration
+            setOnCheckedChangeListener { _, checked -> prefs.vibration = checked }
+        })
+
+        root.addView(CheckBox(this).apply {
+            text = "Sound feedback"
+            isChecked = prefs.sound
+            setOnCheckedChangeListener { _, checked -> prefs.sound = checked }
+        })
+
+        root.addView(TextView(this).apply {
+            text = "Keyboard height"
+            textSize = 14f
+            setPadding(0, 18, 0, 4)
+        })
+
+        root.addView(SeekBar(this).apply {
+            max = 24
+            progress = prefs.keyboardHeight - 48
+            setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
+                override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) { prefs.keyboardHeight = 48 + progress }
+                override fun onStartTrackingTouch(seekBar: SeekBar?) {}
+                override fun onStopTrackingTouch(seekBar: SeekBar?) {}
+            })
+        })
+
+        root.addView(TextView(this).apply {
+            text = "Privacy: this alpha keyboard uses a local starter dictionary. It does not upload private chat text. Personal learning will remain local-first."
+            textSize = 13f
+            setPadding(0, 24, 0, 0)
+        })
+
+        root.addView(TextView(this).apply {
+            text = "Build 5 status: Android alpha source is ready for Android Studio compile. Website and language engine remain testable from VS Code."
+            textSize = 13f
+            setTextColor(Color.rgb(125, 18, 16))
+            setPadding(0, 18, 0, 0)
+        })
+
+        setContentView(root)
     }
 }

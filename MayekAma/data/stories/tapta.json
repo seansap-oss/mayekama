@@ -1,0 +1,30 @@
+{
+  "id": "tapta",
+  "title": "Tapta",
+  "category": "Phunga Wari",
+  "status": "sample_story",
+  "translationType": "summary_aligned",
+  "source": "User-provided planning text, July 2026",
+  "rights": "Provided by project owner for MayekAma sample use; confirm final publication rights before public release.",
+  "roman": [
+    "Aadi gi matamda leirammi nupa ama amadi nupi ama. Masi macha ama leirammi.",
+    "Aduga makhoinse sakol phaba amadi sakol thiba oina hingba louduna leirammi.",
+    "Nong anaba nonglakpa yumgi manungda macha adu kaplami.",
+    "Macha adu khangna kaplami. Mama na yamna thiba kapkhandaba hotnami.",
+    "Aduga nupi aduna hairami: Nang kapkanu, phunga manungda tapta lakliba! Aduga macha adu tokte.",
+    "Matam aduda yum mayai thonglonda huranba ama chaklapu laklami. Aduga nungthila ma yum manungda lamlami.",
+    "Huranba aduna khallami: Tapta haina haiba masi kari oibagano? Ei shamu dagi yaamna yakhi."
+  ],
+  "english": [
+    "Long ago, there lived a man, a woman, and their small child.",
+    "They earned their living by keeping and caring for horses.",
+    "One rainy night, the child cried loudly inside the house.",
+    "The mother tried hard to stop the child from crying.",
+    "She warned the child that Tapta was coming into the hearth, but the child did not stop.",
+    "At the same time, a thief came near the house in the dark and hid near the stable.",
+    "Hearing the name Tapta, the thief became afraid and ran away, thinking Tapta was more frightening than a great beast."
+  ],
+  "extractedCandidates": [
+    "tapta", "phunga", "phunga manungda", "sakol", "sakol phaba", "sakol thiba", "huranba", "chaklapu", "laklami", "tokte", "shamu", "yaamna yakhi", "nong anaba", "yumgi manungda", "macha adu", "mama na", "hairami", "khallami", "oibagano"
+  ]
+}

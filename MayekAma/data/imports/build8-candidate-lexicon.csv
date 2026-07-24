@@ -1,0 +1,116 @@
+canonical,aliases,meaning,partOfSpeech,domain,level,example,sourceTag,reviewStatus
+ama,amaa|am,one / a / single,number/determiner,daily,chat,Wahei ama puthok-i.,mayekama-build8-candidate,needs_review
+ani,anee,two,number,daily,chat,Wahei ani leiri.,mayekama-build8-candidate,needs_review
+ahum,hum,three,number,daily,chat,Wahei ahum leiri.,mayekama-build8-candidate,needs_review
+mari,malee,four,number,daily,chat,Wahei mari leiri.,mayekama-build8-candidate,needs_review
+manga,mangga,five,number,daily,chat,Wahei manga leiri.,mayekama-build8-candidate,needs_review
+tara,,ten,number,daily,chat,Tara suba wahei check tou-i.,mayekama-build8-candidate,needs_review
+gi,gee|ki,of / possessive particle,particle,daily,chat,Manipur-gi wahei.,mayekama-build8-candidate,needs_review
+da,ta|data,at / in / to,particle,daily,chat,Yum-da leiri.,mayekama-build8-candidate,needs_review
+na,,by / subject marker,particle,daily,chat,Teacher-na review tou-i.,mayekama-build8-candidate,needs_review
+bu,,object marker,particle,daily,chat,Nangbu eina nungshi.,mayekama-build8-candidate,needs_review
+su,soo,also / too,particle,daily,chat,Eina-su chatli.,mayekama-build8-candidate,needs_review
+ni,nee,is / copula,verb/particle,daily,chat,MayekAma standard ni.,mayekama-build8-candidate,needs_review
+amadi,amd,or / and,conjunction,daily,chat,English amadi Roman Manipuri.,mayekama-build8-candidate,needs_review
+amasung,amasunggi,and,conjunction,daily,formal,Keyboard amasung writer.,mayekama-build8-candidate,needs_review
+anouba,anoba|anou, new / fresh,adjective,daily,chat,Anouba release leigani.,mayekama-build8-candidate,needs_review
+ariba,ari,old,adjective,daily,chat,Ariba spelling reject tou-i.,mayekama-build8-candidate,needs_review
+achouba,achoupa|achumba,big / large,adjective,daily,chat,Database achouba oigani.,mayekama-build8-candidate,needs_review
+apikpa,apik|pikpa,small,adjective,daily,chat,Apikpa article ama i.,mayekama-build8-candidate,needs_review
+nungai,noongai|nungay,happy / pleasant,adjective,daily,chat,Nungai oina chat tou-i.,mayekama-build8-candidate,needs_review
+nungairaba,noongairaba,happy,adjective,daily,chat,Nungairaba pao puthok-i.,mayekama-build8-candidate,needs_review
+leiba,leipa,to be / exist,verb,daily,chat,Data leiba check tou-i.,mayekama-build8-candidate,needs_review
+leigani,leegani,will be / will exist,verb,daily,formal,API later leigani.,mayekama-build8-candidate,needs_review
+lakpa,lakba,to come,verb,daily,chat,Nang lakpa matam kari?,mayekama-build8-candidate,needs_review
+chatpa,chatba,to go,verb,daily,chat,School-da chatpa yare.,mayekama-build8-candidate,needs_review
+touba,toba|toupa,to do,verb,daily,chat,Install touba yare.,mayekama-build8-candidate,needs_review
+touri,tori|touree,doing,verb,daily,chat,Kari touri?,mayekama-build8-candidate,needs_review
+toure,tore|toureh,did / done,verb,daily,chat,Kari toure?,mayekama-build8-candidate,needs_review
+tougani,togani|touganee,will do,verb,daily,formal,Build 8 import tougani.,mayekama-build8-candidate,needs_review
+piba,peeba,to give,verb,daily,chat,Example piba yare.,mayekama-build8-candidate,needs_review
+pirakpa,peerakpa,to provide / give,verb,daily,formal,Dictionary pirakpa thourang.,mayekama-build8-candidate,needs_review
+louba,loupa,to take / accept,verb,daily,chat,Standard louba yare.,mayekama-build8-candidate,needs_review
+thiba,thipa,to search,verb,daily,chat,Wahei thiba yare.,mayekama-build8-candidate,needs_review
+phangba,fangba,to find / receive,verb,daily,chat,Result phangba yare.,mayekama-build8-candidate,needs_review
+yengba,yengpa,to see / check,verb,daily,chat,Website yengba yare.,mayekama-build8-candidate,needs_review
+khangba,khangpa,to know,verb,daily,chat,Meaning khangba yare.,mayekama-build8-candidate,needs_review
+paoba,paopa,to tell / announce,verb,writing,formal,Notice paoba yare.,mayekama-build8-candidate,needs_review
+iba,epa,to write,verb,writing,formal,Lairik iba thourang.,mayekama-build8-candidate,needs_review
+paba,papa,to read,verb,writing,formal,Article paba yare.,mayekama-build8-candidate,needs_review
+semba,sempa,to make / build,verb,governance,formal,Standard semba project ni.,mayekama-build8-candidate,needs_review
+semgatpa,semgatba,to develop / improve,verb,governance,formal,Database semgatpa thourang.,mayekama-build8-candidate,needs_review
+changba,changpa,to enter / join,verb,daily,chat,App-da changba yare.,mayekama-build8-candidate,needs_review
+thokpa,thokba,to come out / publish,verb,writing,formal,Release thokpa matam.,mayekama-build8-candidate,needs_review
+hangba,hangpa,to ask,verb,daily,chat,Question hangba yare.,mayekama-build8-candidate,needs_review
+paire,pairi,read / recite,verb,writing,formal,Student-na pao paire.,mayekama-build8-candidate,needs_review
+kanano,kana-no,who,question word,daily,chat,Kanano lak-i?,mayekama-build8-candidate,needs_review
+karigi,karigee,why,question word,daily,chat,Karigi app asi sijinnaba?,mayekama-build8-candidate,needs_review
+karamna,karam-na,how,question word,daily,chat,Karamna install tougani?,mayekama-build8-candidate,needs_review
+kayada,kaya-da,how much / how many,question word,daily,chat,Kayada word leiri?,mayekama-build8-candidate,needs_review
+matam,matom,time,noun,daily,chat,Matam leitrabadi later tou-i.,mayekama-build8-candidate,needs_review
+numit,numid,day,noun,daily,chat,Numit khudinggi sijinnaba keyboard.,mayekama-build8-candidate,needs_review
+nongma,,one day,noun,daily,chat,Nongma release tougani.,mayekama-build8-candidate,needs_review
+chahi,,year,noun,daily,formal,Chahi asi standard publish tou-i.,mayekama-build8-candidate,needs_review
+ayuk,ayook,morning,noun,daily,chat,Ayuk-da update check tou-i.,mayekama-build8-candidate,needs_review
+numidang,numitdang,afternoon,noun,daily,chat,Numidang-da test tou-i.,mayekama-build8-candidate,needs_review
+nungthil,nungtil,evening,noun,daily,chat,Nungthil-da chat tou-i.,mayekama-build8-candidate,needs_review
+nupa,nuppa,man,noun,daily,chat,Nupa ama lak-i.,mayekama-build8-candidate,needs_review
+nupi,,woman,noun,daily,chat,Nupi ama lak-i.,mayekama-build8-candidate,needs_review
+mee,mi|mi-yam,person / people,noun,daily,chat,Mee khudingmak sijinnaba yare.,mayekama-build8-candidate,needs_review
+meeyam,miyam|meeyum,people / public,noun,governance,formal,Meeyam-na standard lougani.,mayekama-build8-candidate,needs_review
+mapu,,owner / lord / main person,noun,daily,chat,Mapu-na approve tou-i.,mayekama-build8-candidate,needs_review
+macha,,child / small one,noun,family,chat,Macha school-da chatli.,mayekama-build8-candidate,needs_review
+machanupa,macha-nupa,boy,noun,family,chat,Machanupa school-da chatli.,mayekama-build8-candidate,needs_review
+machanupi,macha-nupi,girl,noun,family,chat,Machanupi school-da chatli.,mayekama-build8-candidate,needs_review
+imung,eemung,family,noun,family,chat,Imung-da keyboard sijinnagani.,mayekama-build8-candidate,needs_review
+marup,maroop,friend,noun,daily,chat,Marup-da message puthok-i.,mayekama-build8-candidate,needs_review
+khongchat,khong-chat,journey / travel,noun,daily,chat,Khongchat pao i.,mayekama-build8-candidate,needs_review
+leipak,,land / country,noun,place,formal,Leipak-gi wahei standard.,mayekama-build8-candidate,needs_review
+lam,,place / area,noun,place,chat,Lam asi mapanda leiri.,mayekama-build8-candidate,needs_review
+lambi,lampi,road,noun,place,chat,Lambi-da mee yamna leiri.,mayekama-build8-candidate,needs_review
+sahor,sahar,city,noun,place,chat,Imphal sahor-da leiri.,mayekama-build8-candidate,needs_review
+keithel,keithal,market,noun,place,chat,Keithel-da chatli.,mayekama-build8-candidate,needs_review
+hospital,hospitel,hospital,noun,place,chat,Hospital-da chatpa matam.,mayekama-build8-candidate,needs_review
+office,ofis,office,noun,place,chat,Office-da meeting leiri.,mayekama-build8-candidate,needs_review
+class,klas,class,noun,school,chat,Class-da teacher leiri.,mayekama-build8-candidate,needs_review
+lesson,leson,lesson,noun,school,formal,Lesson asi MayekAma-da i.,mayekama-build8-candidate,needs_review
+exam,igjam|egjam,exam,noun,school,chat,Exam matam leiri.,mayekama-build8-candidate,needs_review
+homework,homwork,homework,noun,school,chat,Homework asi writer-da i.,mayekama-build8-candidate,needs_review
+subject,sabjek,subject,noun,school,formal,Subject-wise word list semgat-i.,mayekama-build8-candidate,needs_review
+chapter-sing,chapters,chapters,noun,writing,formal,Chapter-sing save tou-i.,mayekama-build8-candidate,needs_review
+wareng,,story / prose,noun,writing,editorial,Wareng ama i.,mayekama-build8-candidate,needs_review
+seireng,,poem,noun,writing,editorial,Seireng ama i.,mayekama-build8-candidate,needs_review
+wari,,story / tale,noun,writing,editorial,Wari ama piba yare.,mayekama-build8-candidate,needs_review
+paoche,,newspaper,noun,writing,editorial,Paoche article normalise tou-i.,mayekama-build8-candidate,needs_review
+paominasi,pao-minasi,headline,noun,writing,editorial,Paominasi standard check tou-i.,mayekama-build8-candidate,needs_review
+paragraph-sing,paragraphs,paragraphs,noun,writing,formal,Paragraph-sing export tou-i.,mayekama-build8-candidate,needs_review
+manuscript,manuskrip,manuscript,noun,writing,formal,Manuscript check tou-i.,mayekama-build8-candidate,needs_review
+draft,draf,draft,noun,writing,formal,AI draft review tou-i.,mayekama-build8-candidate,needs_review
+copy,kopi,copy,verb,technology,chat,Output copy tou-i.,mayekama-build8-candidate,needs_review
+paste,pest,paste,verb,technology,chat,Text paste tou-i.,mayekama-build8-candidate,needs_review
+save,sev,save,verb,technology,chat,Document save tou-i.,mayekama-build8-candidate,needs_review
+export,ekspot,export,verb,technology,formal,Book export tou-i.,mayekama-build8-candidate,needs_review
+sync,sink,sync,verb,technology,formal,Dictionary sync tou-i.,mayekama-build8-candidate,needs_review
+backup,bekap,backup,noun,technology,formal,Personal dictionary backup optional ni.,mayekama-build8-candidate,needs_review
+server,sarvar,server,noun,technology,formal,Server-da approved update leigani.,mayekama-build8-candidate,needs_review
+local,lokal,local,adjective,technology,formal,Local prediction run tou-i.,mayekama-build8-candidate,needs_review
+private,praivet,private,adjective,technology,formal,Private chat upload toude.,mayekama-build8-candidate,needs_review
+secure,sikur,secure,adjective,technology,formal,Secure update download tou-i.,mayekama-build8-candidate,needs_review
+admin,edmin,admin,noun,governance,formal,Admin-na review tou-i.,mayekama-build8-candidate,needs_review
+reviewer,rivuar,reviewer,noun,governance,formal,Reviewer-na source check tou-i.,mayekama-build8-candidate,needs_review
+contributor,kontributor,contributor,noun,governance,formal,Contributor-na word submit tou-i.,mayekama-build8-candidate,needs_review
+submission,sabmison,submission,noun,governance,formal,Submission pending oigani.,mayekama-build8-candidate,needs_review
+pending,,pending,adjective,governance,formal,Pending word reject natte.,mayekama-build8-candidate,needs_review
+rejected,rejekted,rejected,adjective,governance,formal,Duplicate word rejected oigani.,mayekama-build8-candidate,needs_review
+approved,apruvd,approved,adjective,governance,formal,Approved word pack-da chang-i.,mayekama-build8-candidate,needs_review
+published,pablish,published,adjective,writing,formal,Published release version leiri.,mayekama-build8-candidate,needs_review
+citation,saitason,citation,noun,governance,formal,Citation leirabadi source clean oigani.,mayekama-build8-candidate,needs_review
+attribution,atribyuson,attribution,noun,governance,formal,Attribution pi-u.,mayekama-build8-candidate,needs_review
+copyright,kopirait,copyright,noun,governance,formal,Copyright clear natte oirabadi import toude.,mayekama-build8-candidate,needs_review
+permission,parmisin,permission,noun,governance,formal,Permission phanglabadi import tou-i.,mayekama-build8-candidate,needs_review
+licensing,laisensing,licensing,noun,governance,formal,Licensing status check tou-i.,mayekama-build8-candidate,needs_review
+corpus,korpus,corpus,noun,governance,formal,Corpus-na frequency ranking piba yare.,mayekama-build8-candidate,needs_review
+frequency,frikwensi,frequency,noun,governance,formal,Frequency score update tou-i.,mayekama-build8-candidate,needs_review
+variant,veriant,variant,noun,governance,formal,Variant alias oina thambigani.,mayekama-build8-candidate,needs_review
+synonym,sinonim,synonym,noun,writing,formal,Synonym table later leigani.,mayekama-build8-candidate,needs_review
+terminology,terminoloji,terminology,noun,writing,formal,Government terminology pack later leigani.,mayekama-build8-candidate,needs_review

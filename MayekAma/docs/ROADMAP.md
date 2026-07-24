@@ -1,32 +1,42 @@
-# MayekAma Build Roadmap
+# MayekAma Roadmap
 
-## Stage 1 — Foundation
-- Monorepo, website, language engine, native keyboard scaffolds.
-- Starter dictionary and standard rules.
+## Build 1 — Foundation
+- Responsive website
+- Web writer normaliser
+- Starter dictionary
+- TypeScript language engine
+- Supabase starter schema
+- Android and iOS native keyboard scaffolds
+- PWA manifest
 
-## Stage 2 — Public Website
-- Landing page, installation guide, dictionary, writer, standard page, API page, about page.
+## Build 2 — Functional website and admin
+- Multi-page routing
+- Admin word-review dashboard
+- Contribution form
+- Word approval workflow
+- Language-pack generator
+- Supabase client integration
+- SEO pages
 
-## Stage 3 — Language Engine
-- Prefix prediction, alias recognition, canonical spelling, mixed English/Roman detection.
+## Build 3 — Android keyboard MVP
+- Native Android companion app
+- InputMethodService keyboard
+- Suggestion strip connected to local dictionary
+- Settings screen
+- Language-pack import
+- APK build guide
 
-## Stage 4 — Android Keyboard
-- Native QWERTY IME with suggestion strip and local predictions.
+## Build 4 — API and monetisation
+- API endpoints
+- API key management
+- Rate-limit structure
+- Developer documentation
+- Institutional plan pages
 
-## Stage 5 — Supabase Backend
-- Canonical words, aliases, contributions, approvals, standard release publishing.
-
-## Stage 6 — Admin Dashboard
-- Word review, aliases, examples, releases and language-pack export.
-
-## Stage 7 — Web Writer + Normaliser
-- Paste informal Roman Manipuri, convert to MayekAma standard, copy/export.
-
-## Stage 8 — AI Writing Assistant
-- Draft translation and rewriting, always labelled as draft until reviewed.
-
-## Stage 9 — API Monetisation
-- API keys, quotas, developer dashboard, schools/publisher plans.
-
-## Stage 10 — iOS Keyboard
-- Swift keyboard extension, iOS-specific testing and App Store privacy compliance.
+## Build 5 — Release candidate
+- Testing pass
+- Accessibility pass
+- Responsive refinements
+- Performance tuning
+- Deployment guide
+- Android testing package

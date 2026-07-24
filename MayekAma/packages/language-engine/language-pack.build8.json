@@ -1,0 +1,1714 @@
+{
+  "version": "RMS-0.8-workbench",
+  "releasedAt": "2026-07-23",
+  "standardName": "MayekAma Roman Manipuri Database Workbench",
+  "warning": "Workbench language pack. Prediction candidate only until language review approves RMS release.",
+  "wordCount": 189,
+  "words": [
+    {
+      "canonical": "achouba",
+      "aliases": [
+        "achoupa",
+        "achumba"
+      ],
+      "meaning": "big / large",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "admin",
+      "aliases": [
+        "edmin"
+      ],
+      "meaning": "admin",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "adu",
+      "aliases": [
+        "addu",
+        "aduu"
+      ],
+      "meaning": "that / the",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "ahum",
+      "aliases": [
+        "hum"
+      ],
+      "meaning": "three",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "ai",
+      "aliases": [],
+      "meaning": "AI",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "alias",
+      "aliases": [],
+      "meaning": "alias / variant spelling",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "ama",
+      "aliases": [
+        "amaa",
+        "am"
+      ],
+      "meaning": "one / a / single",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "amadi",
+      "aliases": [
+        "amd"
+      ],
+      "meaning": "or / and",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "amasung",
+      "aliases": [
+        "amasunggi"
+      ],
+      "meaning": "and",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "android",
+      "aliases": [],
+      "meaning": "Android",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "ani",
+      "aliases": [
+        "anee"
+      ],
+      "meaning": "two",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "anouba",
+      "aliases": [
+        "anoba",
+        "anou"
+      ],
+      "meaning": "new / fresh",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "api",
+      "aliases": [
+        "a-p-i"
+      ],
+      "meaning": "API",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "apikpa",
+      "aliases": [
+        "apik",
+        "pikpa"
+      ],
+      "meaning": "small",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "approve",
+      "aliases": [
+        "apruv"
+      ],
+      "meaning": "approve",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "approved",
+      "aliases": [
+        "apruvd"
+      ],
+      "meaning": "approved",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "ariba",
+      "aliases": [
+        "ari"
+      ],
+      "meaning": "old",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "article",
+      "aliases": [
+        "artikle"
+      ],
+      "meaning": "article",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "asi",
+      "aliases": [
+        "ashi"
+      ],
+      "meaning": "this",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "attribution",
+      "aliases": [
+        "atribyuson"
+      ],
+      "meaning": "attribution",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "ayuk",
+      "aliases": [
+        "ayook"
+      ],
+      "meaning": "morning",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "backup",
+      "aliases": [
+        "bekap"
+      ],
+      "meaning": "backup",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "book",
+      "aliases": [],
+      "meaning": "book",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "bu",
+      "aliases": [],
+      "meaning": "object marker",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "canonical",
+      "aliases": [],
+      "meaning": "official spelling",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "chahi",
+      "aliases": [],
+      "meaning": "year",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "changba",
+      "aliases": [
+        "changpa"
+      ],
+      "meaning": "to enter / join",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "chapter",
+      "aliases": [
+        "chaptar"
+      ],
+      "meaning": "chapter",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "chapter-sing",
+      "aliases": [
+        "chapters"
+      ],
+      "meaning": "chapters",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "chat",
+      "aliases": [],
+      "meaning": "chat",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "chatli",
+      "aliases": [
+        "chatle",
+        "chatlee"
+      ],
+      "meaning": "going",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "chatpa",
+      "aliases": [
+        "chatba"
+      ],
+      "meaning": "to go",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "citation",
+      "aliases": [
+        "saitason"
+      ],
+      "meaning": "citation",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "class",
+      "aliases": [
+        "klas"
+      ],
+      "meaning": "class",
+      "domain": "school",
+      "level": "chat"
+    },
+    {
+      "canonical": "college",
+      "aliases": [
+        "kolej"
+      ],
+      "meaning": "college",
+      "domain": "school",
+      "level": "chat"
+    },
+    {
+      "canonical": "college-sing",
+      "aliases": [
+        "colleges"
+      ],
+      "meaning": "colleges",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "community",
+      "aliases": [
+        "komuniti"
+      ],
+      "meaning": "community",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "contributor",
+      "aliases": [
+        "kontributor"
+      ],
+      "meaning": "contributor",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "copy",
+      "aliases": [
+        "kopi"
+      ],
+      "meaning": "copy",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "copyright",
+      "aliases": [
+        "kopirait"
+      ],
+      "meaning": "copyright",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "corpus",
+      "aliases": [
+        "korpus"
+      ],
+      "meaning": "corpus",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "da",
+      "aliases": [
+        "ta",
+        "data"
+      ],
+      "meaning": "at / in / to",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "dictionary",
+      "aliases": [
+        "dikshonari"
+      ],
+      "meaning": "dictionary",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "download",
+      "aliases": [],
+      "meaning": "download",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "draft",
+      "aliases": [
+        "draf"
+      ],
+      "meaning": "draft",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "editorial",
+      "aliases": [],
+      "meaning": "editorial",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "eigi",
+      "aliases": [
+        "aigi",
+        "egi",
+        "eigii"
+      ],
+      "meaning": "my / mine",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "eina",
+      "aliases": [
+        "aina",
+        "ena"
+      ],
+      "meaning": "I / me",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "exam",
+      "aliases": [
+        "igjam",
+        "egjam"
+      ],
+      "meaning": "exam",
+      "domain": "school",
+      "level": "chat"
+    },
+    {
+      "canonical": "example",
+      "aliases": [
+        "exampol"
+      ],
+      "meaning": "example",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "export",
+      "aliases": [
+        "ekspot"
+      ],
+      "meaning": "export",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "formal",
+      "aliases": [],
+      "meaning": "formal",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "frequency",
+      "aliases": [
+        "frikwensi"
+      ],
+      "meaning": "frequency",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "gi",
+      "aliases": [
+        "gee",
+        "ki"
+      ],
+      "meaning": "of / possessive particle",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "government",
+      "aliases": [
+        "govt"
+      ],
+      "meaning": "government",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "hangba",
+      "aliases": [
+        "hangpa"
+      ],
+      "meaning": "to ask",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "homework",
+      "aliases": [
+        "homwork"
+      ],
+      "meaning": "homework",
+      "domain": "school",
+      "level": "chat"
+    },
+    {
+      "canonical": "hospital",
+      "aliases": [
+        "hospitel"
+      ],
+      "meaning": "hospital",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "houjik",
+      "aliases": [
+        "hojik",
+        "houjiki"
+      ],
+      "meaning": "now",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "iba",
+      "aliases": [
+        "epa"
+      ],
+      "meaning": "to write",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "ichan",
+      "aliases": [
+        "echan"
+      ],
+      "meaning": "child",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "ima",
+      "aliases": [
+        "eema"
+      ],
+      "meaning": "mother",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "imphal",
+      "aliases": [],
+      "meaning": "Imphal",
+      "domain": "place",
+      "level": "formal"
+    },
+    {
+      "canonical": "imung",
+      "aliases": [
+        "eemung"
+      ],
+      "meaning": "family",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "install",
+      "aliases": [
+        "instal"
+      ],
+      "meaning": "install",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "ios",
+      "aliases": [],
+      "meaning": "iOS",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "kadaida",
+      "aliases": [
+        "kadada",
+        "kadaidaa"
+      ],
+      "meaning": "where",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "kanano",
+      "aliases": [
+        "kana-no"
+      ],
+      "meaning": "who",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "karamna",
+      "aliases": [
+        "karam-na"
+      ],
+      "meaning": "how",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "kari",
+      "aliases": [
+        "kori",
+        "karee"
+      ],
+      "meaning": "what",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "karigi",
+      "aliases": [
+        "karigee"
+      ],
+      "meaning": "why",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "kayada",
+      "aliases": [
+        "kaya-da"
+      ],
+      "meaning": "how much / how many",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "keithel",
+      "aliases": [
+        "keithal"
+      ],
+      "meaning": "market",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "keyboard",
+      "aliases": [
+        "keybord"
+      ],
+      "meaning": "keyboard",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "khangba",
+      "aliases": [
+        "khangpa"
+      ],
+      "meaning": "to know",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "khongchat",
+      "aliases": [
+        "khong-chat"
+      ],
+      "meaning": "journey / travel",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "lairik",
+      "aliases": [],
+      "meaning": "book",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "lak-u",
+      "aliases": [
+        "laku",
+        "lakoo",
+        "lakh-u"
+      ],
+      "meaning": "come",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "lakpa",
+      "aliases": [
+        "lakba"
+      ],
+      "meaning": "to come",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "lam",
+      "aliases": [],
+      "meaning": "place / area",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "lambi",
+      "aliases": [
+        "lampi"
+      ],
+      "meaning": "road",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "leiba",
+      "aliases": [
+        "leipa"
+      ],
+      "meaning": "to be / exist",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "leigani",
+      "aliases": [
+        "leegani"
+      ],
+      "meaning": "will be / will exist",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "leipak",
+      "aliases": [],
+      "meaning": "land / country",
+      "domain": "place",
+      "level": "formal"
+    },
+    {
+      "canonical": "leiri",
+      "aliases": [
+        "leire",
+        "leeree"
+      ],
+      "meaning": "is / staying / existing",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "lesson",
+      "aliases": [
+        "leson"
+      ],
+      "meaning": "lesson",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "letter",
+      "aliases": [
+        "letar"
+      ],
+      "meaning": "letter",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "licence",
+      "aliases": [
+        "license"
+      ],
+      "meaning": "licence",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "licensing",
+      "aliases": [
+        "laisensing"
+      ],
+      "meaning": "licensing",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "local",
+      "aliases": [
+        "lokal"
+      ],
+      "meaning": "local",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "louba",
+      "aliases": [
+        "loupa"
+      ],
+      "meaning": "to take / accept",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "macha",
+      "aliases": [],
+      "meaning": "child / small one",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "machanupa",
+      "aliases": [
+        "macha-nupa"
+      ],
+      "meaning": "boy",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "machanupi",
+      "aliases": [
+        "macha-nupi"
+      ],
+      "meaning": "girl",
+      "domain": "family",
+      "level": "chat"
+    },
+    {
+      "canonical": "manga",
+      "aliases": [
+        "mangga"
+      ],
+      "meaning": "five",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "manipur",
+      "aliases": [
+        "manipoor"
+      ],
+      "meaning": "Manipur",
+      "domain": "place",
+      "level": "formal"
+    },
+    {
+      "canonical": "manuscript",
+      "aliases": [
+        "manuskrip"
+      ],
+      "meaning": "manuscript",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "mapu",
+      "aliases": [],
+      "meaning": "owner / lord / main person",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "mari",
+      "aliases": [
+        "malee"
+      ],
+      "meaning": "four",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "marup",
+      "aliases": [
+        "maroop"
+      ],
+      "meaning": "friend",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "matam",
+      "aliases": [
+        "matom"
+      ],
+      "meaning": "time",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "mayek",
+      "aliases": [
+        "maiek"
+      ],
+      "meaning": "letter / script",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "meaning",
+      "aliases": [
+        "mining"
+      ],
+      "meaning": "meaning",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "mee",
+      "aliases": [
+        "mi",
+        "mi-yam"
+      ],
+      "meaning": "person / people",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "meeyam",
+      "aliases": [
+        "miyam",
+        "meeyum"
+      ],
+      "meaning": "people / public",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "ming",
+      "aliases": [
+        "meng"
+      ],
+      "meaning": "name",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "na",
+      "aliases": [],
+      "meaning": "by / subject marker",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nang",
+      "aliases": [
+        "nahang",
+        "nng"
+      ],
+      "meaning": "you",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nangbu",
+      "aliases": [
+        "nngbu"
+      ],
+      "meaning": "you / to you",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "ni",
+      "aliases": [
+        "nee"
+      ],
+      "meaning": "is / copula",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nongma",
+      "aliases": [],
+      "meaning": "one day",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "normalise",
+      "aliases": [
+        "normalize"
+      ],
+      "meaning": "standardise spelling",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "notice",
+      "aliases": [
+        "notis"
+      ],
+      "meaning": "notice",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "numidang",
+      "aliases": [
+        "numitdang"
+      ],
+      "meaning": "afternoon",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "numit",
+      "aliases": [
+        "numid"
+      ],
+      "meaning": "day",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nungai",
+      "aliases": [
+        "noongai",
+        "nungay"
+      ],
+      "meaning": "happy / pleasant",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nungairaba",
+      "aliases": [
+        "noongairaba"
+      ],
+      "meaning": "happy",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nungshi",
+      "aliases": [
+        "noongshi",
+        "nungsi",
+        "nungsee"
+      ],
+      "meaning": "love",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nungthil",
+      "aliases": [
+        "nungtil"
+      ],
+      "meaning": "evening",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nupa",
+      "aliases": [
+        "nuppa"
+      ],
+      "meaning": "man",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "nupi",
+      "aliases": [],
+      "meaning": "woman",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "office",
+      "aliases": [
+        "ofis"
+      ],
+      "meaning": "office",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "offline",
+      "aliases": [],
+      "meaning": "offline",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "online",
+      "aliases": [],
+      "meaning": "online",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "paba",
+      "aliases": [
+        "papa"
+      ],
+      "meaning": "to read",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "paire",
+      "aliases": [
+        "pairi"
+      ],
+      "meaning": "read / recite",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "pao",
+      "aliases": [
+        "pow"
+      ],
+      "meaning": "news / message",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "paoba",
+      "aliases": [
+        "paopa"
+      ],
+      "meaning": "to tell / announce",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "paoche",
+      "aliases": [],
+      "meaning": "newspaper",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "paominasi",
+      "aliases": [
+        "pao-minasi"
+      ],
+      "meaning": "headline",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "paragraph",
+      "aliases": [
+        "paragraf"
+      ],
+      "meaning": "paragraph",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "paragraph-sing",
+      "aliases": [
+        "paragraphs"
+      ],
+      "meaning": "paragraphs",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "paste",
+      "aliases": [
+        "pest"
+      ],
+      "meaning": "paste",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "pending",
+      "aliases": [],
+      "meaning": "pending",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "permission",
+      "aliases": [
+        "parmisin"
+      ],
+      "meaning": "permission",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "phajare",
+      "aliases": [
+        "fajare",
+        "phajaree"
+      ],
+      "meaning": "beautiful / good",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "phangba",
+      "aliases": [
+        "fangba"
+      ],
+      "meaning": "to find / receive",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "piba",
+      "aliases": [
+        "peeba"
+      ],
+      "meaning": "to give",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "pirakpa",
+      "aliases": [
+        "peerakpa"
+      ],
+      "meaning": "to provide / give",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "prediction",
+      "aliases": [
+        "predikson"
+      ],
+      "meaning": "prediction",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "privacy",
+      "aliases": [
+        "praivasi"
+      ],
+      "meaning": "privacy",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "private",
+      "aliases": [
+        "praivet"
+      ],
+      "meaning": "private",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "published",
+      "aliases": [
+        "pablish"
+      ],
+      "meaning": "published",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "publisher",
+      "aliases": [
+        "pablishar"
+      ],
+      "meaning": "publisher",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "rejected",
+      "aliases": [
+        "rejekted"
+      ],
+      "meaning": "rejected",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "release",
+      "aliases": [
+        "rilis"
+      ],
+      "meaning": "release",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "review",
+      "aliases": [
+        "rivu"
+      ],
+      "meaning": "review",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "reviewer",
+      "aliases": [
+        "rivuar"
+      ],
+      "meaning": "reviewer",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "sahor",
+      "aliases": [
+        "sahar"
+      ],
+      "meaning": "city",
+      "domain": "place",
+      "level": "chat"
+    },
+    {
+      "canonical": "save",
+      "aliases": [
+        "sev"
+      ],
+      "meaning": "save",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "school",
+      "aliases": [
+        "iskul"
+      ],
+      "meaning": "school",
+      "domain": "school",
+      "level": "chat"
+    },
+    {
+      "canonical": "school-sing",
+      "aliases": [
+        "schools"
+      ],
+      "meaning": "schools",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "secure",
+      "aliases": [
+        "sikur"
+      ],
+      "meaning": "secure",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "seireng",
+      "aliases": [],
+      "meaning": "poem",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "semba",
+      "aliases": [
+        "sempa"
+      ],
+      "meaning": "to make / build",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "semgatpa",
+      "aliases": [
+        "semgatba"
+      ],
+      "meaning": "to develop / improve",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "sentence",
+      "aliases": [
+        "sentens"
+      ],
+      "meaning": "sentence",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "server",
+      "aliases": [
+        "sarvar"
+      ],
+      "meaning": "server",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "source",
+      "aliases": [
+        "sors"
+      ],
+      "meaning": "source",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "standard",
+      "aliases": [],
+      "meaning": "standard",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "student",
+      "aliases": [
+        "studen"
+      ],
+      "meaning": "student",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "su",
+      "aliases": [
+        "soo"
+      ],
+      "meaning": "also / too",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "subject",
+      "aliases": [
+        "sabjek"
+      ],
+      "meaning": "subject",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "submission",
+      "aliases": [
+        "sabmison"
+      ],
+      "meaning": "submission",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "sync",
+      "aliases": [
+        "sink"
+      ],
+      "meaning": "sync",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "synonym",
+      "aliases": [
+        "sinonim"
+      ],
+      "meaning": "synonym",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "tara",
+      "aliases": [],
+      "meaning": "ten",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "teacher",
+      "aliases": [
+        "ticher"
+      ],
+      "meaning": "teacher",
+      "domain": "school",
+      "level": "formal"
+    },
+    {
+      "canonical": "terminology",
+      "aliases": [
+        "terminoloji"
+      ],
+      "meaning": "terminology",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "thagatchari",
+      "aliases": [
+        "thankchari",
+        "thagatchare",
+        "thagatcharee"
+      ],
+      "meaning": "thank you",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "thiba",
+      "aliases": [
+        "thipa"
+      ],
+      "meaning": "to search",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "thokpa",
+      "aliases": [
+        "thokba"
+      ],
+      "meaning": "to come out / publish",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "touba",
+      "aliases": [
+        "toba",
+        "toupa"
+      ],
+      "meaning": "to do",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "tougani",
+      "aliases": [
+        "togani",
+        "touganee"
+      ],
+      "meaning": "will do",
+      "domain": "daily",
+      "level": "formal"
+    },
+    {
+      "canonical": "toure",
+      "aliases": [
+        "tore",
+        "toureh"
+      ],
+      "meaning": "did / done",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "touri",
+      "aliases": [
+        "tori",
+        "touree"
+      ],
+      "meaning": "doing",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "translate",
+      "aliases": [],
+      "meaning": "translate",
+      "domain": "translation",
+      "level": "formal"
+    },
+    {
+      "canonical": "update",
+      "aliases": [],
+      "meaning": "update",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "variant",
+      "aliases": [
+        "veriant"
+      ],
+      "meaning": "variant",
+      "domain": "governance",
+      "level": "formal"
+    },
+    {
+      "canonical": "version",
+      "aliases": [
+        "varsan"
+      ],
+      "meaning": "version",
+      "domain": "technology",
+      "level": "formal"
+    },
+    {
+      "canonical": "wahei",
+      "aliases": [
+        "wahe"
+      ],
+      "meaning": "word",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "wareng",
+      "aliases": [],
+      "meaning": "story / prose",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "wari",
+      "aliases": [],
+      "meaning": "story / tale",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "warol",
+      "aliases": [
+        "waral"
+      ],
+      "meaning": "article / writing",
+      "domain": "writing",
+      "level": "editorial"
+    },
+    {
+      "canonical": "website",
+      "aliases": [
+        "websait"
+      ],
+      "meaning": "website",
+      "domain": "technology",
+      "level": "chat"
+    },
+    {
+      "canonical": "writer",
+      "aliases": [
+        "raitar"
+      ],
+      "meaning": "writer",
+      "domain": "writing",
+      "level": "formal"
+    },
+    {
+      "canonical": "yamna",
+      "aliases": [
+        "yamuna"
+      ],
+      "meaning": "very",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "yengba",
+      "aliases": [
+        "yengpa"
+      ],
+      "meaning": "to see / check",
+      "domain": "daily",
+      "level": "chat"
+    },
+    {
+      "canonical": "yum",
+      "aliases": [
+        "yoom"
+      ],
+      "meaning": "home / house",
+      "domain": "family",
+      "level": "chat"
+    }
+  ],
+  "nextWordPairs": {
+    "eina": [
+      "nangbu",
+      "houjik",
+      "yum-da",
+      "school-da"
+    ],
+    "eigi": [
+      "ming",
+      "yum",
+      "warol",
+      "lairik"
+    ],
+    "mayekama": [
+      "keyboard",
+      "writer",
+      "dictionary",
+      "standard"
+    ],
+    "roman": [
+      "manipuri"
+    ],
+    "school": [
+      "notice",
+      "student",
+      "teacher"
+    ],
+    "article": [
+      "ama",
+      "standard-da"
+    ],
+    "lairik": [
+      "ama",
+      "chapter",
+      "paragraph"
+    ]
+  }
+}

@@ -1,19 +1,52 @@
 {
   "name": "mayekama",
   "private": true,
-  "version": "0.1.0",
-  "description": "MayekAma Roman Manipuri language platform: website, language engine, Android keyboard, iOS keyboard scaffold, Supabase schema.",
-  "workspaces": [
-    "apps/website",
-    "packages/language-engine"
-  ],
+  "version": "0.18.0-story-art-install",
+  "description": "MayekAma Build 18: installs story artwork into the website/app reader flow, keeps the MayekAma logo and identity, and brings the live UI closer to the approved app-reader mockup while preserving keyboard/community features.",
+  "type": "module",
   "scripts": {
-    "dev": "npm --workspace apps/website run dev",
-    "build": "npm --workspace apps/website run build",
-    "preview": "npm --workspace apps/website run preview",
-    "check": "npm --workspace apps/website run check"
+    "dev": "node ./node_modules/vite/bin/vite.js --host 0.0.0.0 --port 5173",
+    "build": "node ./node_modules/typescript/bin/tsc -b && node ./node_modules/vite/bin/vite.js build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173",
+    "check": "node ./node_modules/typescript/bin/tsc --noEmit",
+    "lint": "echo \"Lint placeholder: add ESLint in Build 2\"",
+    "test:engine": "tsx scripts/test-engine.mjs",
+    "validate:pack": "tsx scripts/validate-language-pack.mjs",
+    "build:all": "npm run check && npm run build && npm run validate:pack && npm run test:engine",
+    "doctor": "node scripts/doctor.mjs",
+    "status": "node scripts/status.mjs",
+    "start:one": "npm install && npm run dev",
+    "android:status": "node scripts/android-status.mjs",
+    "build5:check": "npm run check && npm run validate:pack && npm run test:engine && npm run android:status",
+    "release:check": "npm run check && npm run validate:pack && npm run test:engine && npm run android:status && node scripts/release-report.mjs",
+    "build6:check": "npm run release:check",
+    "database:audit": "node scripts/audit-source-catalog.mjs",
+    "database:import": "node scripts/import-lexicon.mjs data/imports/seed-master-lexicon.csv data/processed/mayekama-master-lexicon.json",
+    "database:pack": "node scripts/build-language-pack.mjs data/master/mayekama-master-lexicon.json packages/language-engine/language-pack.build9.json",
+    "build7:check": "npm run check && npm run validate:pack && npm run test:engine && npm run database:audit && npm run database:import && npm run database:pack",
+    "database:merge": "node scripts/merge-lexicons.mjs data/imports data/master data/rejected",
+    "database:status": "node scripts/database-status.mjs",
+    "build8:check": "npm run check && npm run validate:pack && npm run test:engine && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack",
+    "build9:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "database:ingest-json": "node scripts/ingest-user-json.mjs",
+    "build10:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build11:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build12:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build13:check": "npm run check && npm run database:audit && npm run database:merge && npm run database:status && npm run database:pack && npm run validate:pack && npm run test:engine",
+    "build16:check": "npm run check && npm run database:status && npm run database:pack && npm run build"
   },
-  "engines": {
-    "node": ">=20.0.0"
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "framer-motion": "latest",
+    "tsx": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
   }
 }

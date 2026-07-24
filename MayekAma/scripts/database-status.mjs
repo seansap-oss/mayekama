@@ -1,0 +1,5 @@
+import fs from 'node:fs';
+const reportPath='data/reports/database-status.build9.json';
+if(!fs.existsSync(reportPath)){console.error('Run npm run database:merge first.');process.exit(1)}
+const r=JSON.parse(fs.readFileSync(reportPath,'utf8'));
+console.log('MayekAma Database Status');console.log('------------------------');console.log(`Unique canonical words: ${r.finalWordCount}`);console.log(`Rejected duplicate/collision rows: ${r.rejected}`);console.log('Domains:',JSON.stringify(r.domainCounts));console.log('Levels:',JSON.stringify(r.levelCounts));console.log('Review:',JSON.stringify(r.reviewCounts));const chat=r.levelCounts.chat||0, formal=r.levelCounts.formal||0, editorial=r.levelCounts.editorial||0;console.log(`Chat readiness: ${chat>=5000?'pilot-ready':chat>=500?'basic pilot':'early prototype'}`);console.log(`Article readiness: ${formal+editorial>=8000?'pilot-ready':formal+editorial>=1000?'basic drafting':'early prototype'}`);console.log(`Book readiness: ${r.finalWordCount>=40000?'book-workbench':'not yet; needs 40k+ reviewed entries plus grammar/phrases'}`);

@@ -1,37 +1,28 @@
-# MayekAma — Roman Manipuri Language Platform
+# MayekAma Build 12 — Chat Database Expansion
 
-MayekAma is a production-oriented starter for a Roman Manipuri keyboard, writer, dictionary, language-standard engine, API and installation website.
+MayekAma is a Roman Manipuri keyboard, writer, dictionary and governance platform.
 
-This package contains:
+## Current status
 
-- `apps/website` — responsive website and web writer.
-- `packages/language-engine` — reusable Roman Manipuri standardisation engine.
-- `database/supabase` — starter PostgreSQL schema and RLS policies.
-- `apps/android-keyboard` — native Android InputMethodService keyboard scaffold.
-- `apps/ios-keyboard` — iOS custom keyboard extension source scaffold.
-- `docs` — roadmap, standard rules and API plan.
+- Website: testable
+- UI: locked; additions only
+- Dictionary: 1,795 unique candidate canonical entries
+- Governance: temporary submissions + database pre-check
+- APK: Android alpha source handled separately
 
-## Local website commands
-
-Run from the project root in PowerShell:
+## Run
 
 ```powershell
 npm install
+npm run database:merge
+npm run database:status
+npm run database:pack
 npm run dev
 ```
 
-Then open the URL shown in the terminal, usually `http://localhost:5173`.
+Open http://localhost:5173
 
-## Android keyboard
 
-Open `apps/android-keyboard` in Android Studio. Build the app, install on a test Android phone, then enable the keyboard in Android settings.
+## Build 13 database growth
 
-The Android keyboard is deliberately native. Do not replace it with a webview wrapper.
-
-## iOS keyboard
-
-The iOS folder contains the Swift source scaffold for a host app and keyboard extension. Create an Xcode project with an app target and custom keyboard extension target, then add these files.
-
-## Important honesty note
-
-The starter dictionary is a seed. It is not yet a complete authoritative Manipuri dictionary. The long-term value comes from curated canonical spelling decisions, community review and standard releases.
+Build 13 adds 1,310 candidate rows and brings the master database to 3,105 unique canonical entries after dedupe. UI remains locked; only the database and documentation were added. See `docs/BUILD13_DATABASE_GROWTH.md`.
